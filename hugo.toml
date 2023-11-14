@@ -14,7 +14,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Curious Data Engineer and Tinkerer"
+	subtitle = "Brewing Insights from Data to Espresso: A Curious Engineer's Quest for Knowledge and Specialty Coffee"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
@@ -25,6 +25,10 @@ name = "GitHub"
 icon = "github"
 url = "https://github.com/gianhiltbrunner"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/gianhiltbrunner"
 
 # Main menu Items
 
