@@ -96,6 +96,8 @@ The long cooking time extracts gelatin from the bones and connective tissue, cre
 4. Bring up to a simmer, then turn off the heat again, cover, and allow to steep until flavored to your liking, anywhere from 5 minutes to 30 minutes.
 5. Strain through a fine-mesh strainer and reserve until needed.
 
+**The Chemistry of Umami Synergy**: Kombu contains glutamate (glutamic acid), while katsuobushi provides inosinate (inosinic acid). When combined, these two umami compounds create a synergistic effect where the total umami intensity is approximately 8 times greater than the sum of each component alone. This multiplicative interaction occurs because glutamate and inosinate bind to different umami receptors on the tongue, amplifying the overall savory perception. This is why dashi, despite using simple ingredients, creates such profound depth of flavor.
+
 > Dashi degrades quickly in flavor, so it only keeps for a few days in the fridge if you decide to make it in advance. Luckily, it's relatively simple to put together.
 
 ## Shio Tare

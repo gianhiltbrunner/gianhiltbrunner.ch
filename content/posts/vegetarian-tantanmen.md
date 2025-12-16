@@ -1,7 +1,7 @@
 +++
 title="Vegetarian Tantanmen"
 description="A plant-based take on the spicy, nutty tantanmen with homemade chili oil and sesame tare"
-date=2025-06-16T21:00:00+01:00
+date=2025-08-04T21:00:00+01:00
 tldr="Rich vegetarian tantanmen with a blended soup base, aromatic chili oil, and sesame tare. Completely plant-based (except the egg topping)."
 draft=false
 tags=["ramen", "recipe", "japanese", "vegetarian", "tantanmen"]
