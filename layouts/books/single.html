@@ -1,0 +1,38 @@
+{{ define "main" }}
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">{{ .Title }}</h1>
+		</div>
+
+		<section class="body">
+			{{ .Content }}
+		</section>
+
+		{{ if .Params.books }}
+		<div class="books-grid">
+			{{ range .Params.books }}
+			<div class="book-item">
+				{{ if .cover }}
+				<div class="book-cover">
+					<img src="{{ .cover }}" alt="{{ .title }}" loading="lazy">
+				</div>
+				{{ end }}
+				<div class="book-info">
+					{{ if .title }}
+					<h3 class="book-title">{{ .title }}</h3>
+					{{ end }}
+					{{ if .author }}
+					<p class="book-author">{{ .author }}</p>
+					{{ end }}
+					{{ if .description }}
+					<p class="book-description">{{ .description }}</p>
+					{{ end }}
+				</div>
+			</div>
+			{{ end }}
+		</div>
+		{{ end }}
+	</article>
+</main>
+{{ end }}
