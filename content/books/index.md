@@ -35,4 +35,4 @@ description = "A complete guide to making ramen at home"
 
 ## My Reading Collection
 
-A collection of culinary books exploring cocktails, plant-based Asian cuisine, and the art of ramen.
+Current collection of book recommendations.

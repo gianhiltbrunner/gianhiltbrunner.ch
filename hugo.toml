@@ -16,6 +16,7 @@ pagerSize = 3 # articles per page
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Brewing Insights from Data to Espresso: A Curious Engineer's Quest for Knowledge and Specialty Coffee"
+	favicon = "/favicon.svg" # path to favicon
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 	customCSS = ["css/books.css", "css/mermaid.css"] # custom CSS files
