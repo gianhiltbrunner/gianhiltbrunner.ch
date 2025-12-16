@@ -1,7 +1,7 @@
 +++
 title="Gian's Shoyu Ramen"
 description="My best ramen recipe so far - a rich double soup with homemade tare and perfectly cooked eggs"
-date=2025-12-16T20:00:00+01:00
+date=2025-06-16T20:00:00+01:00
 tldr="My best ramen recipe so far. Takes a bit of time to make. But the tare can be made in large batches and refrigerated."
 draft=false
 tags=["ramen", "recipe", "japanese", "cooking"]
@@ -135,7 +135,7 @@ These ajitsuke tamago (seasoned eggs) feature a jammy yolk with a firm white, ma
 5. Boil the eggs, stirring occasionally during the first minute or so of cooking, for 6-7 minutes, depending on how firm you'd like the yolk. I prefer 7 minutes for a slightly custardy yolk. For a completely liquid yolk, cook for 6 to 6.5 minutes.
 6. After the time is up, quickly remove the eggs from the water and place them in the ice bath from step 2. Hold for 15 minutes, or until thoroughly chilled.
 
-**Marinade:**
+### Marinade
 
 - One part soy sauce
 - One part mirin
