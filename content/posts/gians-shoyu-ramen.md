@@ -2,12 +2,12 @@
 title="Gian's Shoyu Ramen"
 description="My best ramen recipe so far - a rich double soup with homemade tare and perfectly cooked eggs"
 date=2025-12-16T20:00:00+01:00
-tldr="A comprehensive shoyu ramen recipe with detailed timing and dependency graphs"
+tldr="My best ramen recipe so far. Takes a bit of time to make. But the tare can be made in large batches and refrigerated."
 draft=false
 tags=["ramen", "recipe", "japanese", "cooking"]
 +++
 
-My best ramen recipe so far. Takes a bit of time to make. But the tare can be made in large batches and refrigerated.
+This shoyu (soy sauce) ramen features a double soup combining rich chicken stock with umami-packed dashi, seasoned with a homemade tare made from slow-cooked sofrito. The result is a deeply flavorful bowl with layers of complexity. While the process takes time, most components can be prepared in advance and stored for quick assembly later.
 
 ## Dependency Graph
 
@@ -49,21 +49,25 @@ gantt
 
 ## Ramen Bowl
 
-Makes 1 bowl (plan 1 - 2 bowls / person)
+Makes 1 bowl (plan 1-2 bowls per person)
 
-- 10 - 20 milliliters (2 - 4 teaspoons) warm FAT (chicken or pork)
-- 30 milliliters (2 tablespoons) room-temperature SHIO TARE
-- 2.5 grams (0.5 tablespoon) SALT, by taste
-- 270 milliliters DOUBLE SOUP, simmering
-- 130 grams RAMEN NOODLES
-- 1 room-temperature HALF-COOKED EGG
+The final assembly is quick once all components are ready. Build each bowl individually, starting with fat and tare at the bottom, then adding hot soup to emulsify everything together.
+
+- 10-20 milliliters (2-4 teaspoons) warm fat (chicken or pork)
+- 30 milliliters (2 tablespoons) room-temperature shio tare
+- 2.5 grams (0.5 tablespoon) salt, to taste
+- 270 milliliters double soup, simmering
+- 130 grams ramen noodles
+- 1 room-temperature half-cooked egg
 - Finely shredded green onions or negi (Japanese green onions), for garnish
 - 1 optional pinch of MSG
 
 ## Double Soup
 
-- 500 milliliters CHICKEN STOCK
-- 500 milliliters DASHI
+- 500 milliliters chicken stock
+- 500 milliliters dashi
+
+Combine equal parts of each stock. The chicken stock provides body and richness, while the dashi adds a lighter, more delicate umami flavor. This layering creates depth that single-stock soups can't match.
 
 ## Chicken Stock
 
@@ -74,15 +78,17 @@ Makes 1 bowl (plan 1 - 2 bowls / person)
 
 > Chicken (whole, backs, feet, all chicken)
 > Pot: 6 hours
-> Pressure Cooker: 45 minutes (or 30 minutes with 30-minute natural release)
+> Pressure Cooker: 45 minutes (or 30 minutes with natural release)
 
 2. Drain and filter the stock.
 
+The long cooking time extracts gelatin from the bones and connective tissue, creating a rich, silky broth. If using a pressure cooker, you'll achieve similar results in a fraction of the time.
+
 ## Dashi
 
-- 1 L cold water
-- 10 g kombu
-- 25 g katsuobushi (or replace with niboshi, or shiitake, as desired)
+- 1 liter cold water
+- 10 grams kombu
+- 25 grams katsuobushi (or replace with niboshi or shiitake, as desired)
 
 1. Add the cold water and kombu to a pot (if using niboshi or shiitake, add with the kombu).
 2. Heat over medium-low heat until just below simmer, around 80 °C. Turn off the heat and allow it to steep for 10 minutes.
@@ -96,7 +102,9 @@ Makes 1 bowl (plan 1 - 2 bowls / person)
 
 - 48 grams (4 tablespoons) sea salt
 - 340 milliliters boiling water
-- 275 grams SOFRITO
+- 275 grams sofrito
+
+Tare is the concentrated seasoning base that gives ramen its distinctive flavor. This shio (salt) tare uses sofrito as its flavor foundation, creating a unique sweetness and depth. Dissolve the salt in boiling water, then mix with the sofrito. Store refrigerated for up to 2 weeks.
 
 ## Sofrito
 
@@ -106,22 +114,26 @@ Makes 1 bowl (plan 1 - 2 bowls / person)
 - 65 grams fresh ginger, peeled
 - About 1 liter vegetable oil
 
+This sofrito is inspired by Ivan Orkin's approach to ramen. The slow-cooked apples and onions caramelize gently, creating natural sweetness and complexity without bitterness. It's the secret ingredient that sets this ramen apart.
+
 1. Preheat the oven to 110°C.
-2. Cut the apples and onions into a small dice. (Or, since everything is going to cook down for hours anyway, you could use a food processor: cut the onions and apples into coarse chunks, then process them separately, pulsing in short bursts to achieve a small dice without turning things into mush.) Dice the garlic and ginger very fine, close to a mince.
+2. Cut the apples and onions into a small dice. Alternatively, you can use a food processor: cut the onions and apples into coarse chunks, then process them separately, pulsing in short bursts to achieve a small dice without turning them into mush. Dice the garlic and ginger very fine, close to a mince.
 3. Put the onions and apples into a deep sauté pan or roasting pan that will hold all the ingredients in a 13-millimeter layer. Pour in the oil, set the pan over medium heat, and cook until the oil begins to bubble and the vegetables begin to sweat. Cover the pan, transfer it to the oven, and cook for about 3 hours. You want the onions and apples to cook very slowly, taking on color only toward the end of cooking. The cooking time will vary depending on how much water is in the onions and apples. Stir the ingredients and rotate the pan regularly to prevent burning.
-4. After the onions and apples have cooked down and begun to brown slightly, add the garlic and ginger and continue to cook for another 2 or 3 hours, stirring and rotating the pan from time to time, until everything has a uniformly light brown color and a soft, creamy consistency. Try to prevent the onions and apples from developing dark or crisp edges.
+4. After the onions and apples have cooked down and begun to brown slightly, add the garlic and ginger and continue to cook for another 2-3 hours, stirring and rotating the pan from time to time, until everything has a uniformly light brown color and a soft, creamy consistency. Try to prevent the onions and apples from developing dark or crisp edges.
 5. Cool the sofrito completely, then refrigerate. It should keep for at least 2 weeks in a tightly sealed container.
 
 ## Half-Cooked Eggs
 
-- Refrigerated Eggs
+- Refrigerated eggs
+
+These ajitsuke tamago (seasoned eggs) feature a jammy yolk with a firm white, marinated in a savory-sweet soy mixture. The ice bath stops the cooking process instantly, ensuring the perfect texture every time.
 
 1. Bring a large pot of water to a full boil.
 2. In a large bowl or container, fill with ice and cold water to make an ice bath. Reserve.
 3. Remove eggs from the refrigerator.
-4. Working in batches of 4-6 eggs at a time, to avoid the water temperature dropping too quickly, lower your eggs into the boiling water.
-5. Boil the eggs, stirring occasionally during the first minute or so of cooking, for 6-7 minutes, depending on how firm you'd like the yolk. I like 7, the yolk gets juuuust a tad cooked, and slightly custardy. Others like a completely liquid yolk, which is around 6 minutes to 6 minutes 30 seconds.
-6. After the time is up, quickly remove the eggs from the water and place them in the ice bath from step 2, hold for 15 minutes, or until thoroughly chilled.
+4. Working in batches of 4-6 eggs at a time to avoid the water temperature dropping too quickly, lower your eggs into the boiling water.
+5. Boil the eggs, stirring occasionally during the first minute or so of cooking, for 6-7 minutes, depending on how firm you'd like the yolk. I prefer 7 minutes for a slightly custardy yolk. For a completely liquid yolk, cook for 6 to 6.5 minutes.
+6. After the time is up, quickly remove the eggs from the water and place them in the ice bath from step 2. Hold for 15 minutes, or until thoroughly chilled.
 
 **Marinade:**
 
@@ -129,7 +141,7 @@ Makes 1 bowl (plan 1 - 2 bowls / person)
 - One part mirin
 - One part water
 
-1. Place peeled eggs in an airtight container, like a hard plastic container or a sealable bag.
-2. Pour the above ingredients into the container to cover (you may not need to use all the brine, reduce the amount as necessary)
+1. Place peeled eggs in an airtight container, such as a hard plastic container or a sealable bag.
+2. Pour the above ingredients into the container to cover (you may not need to use all the brine; reduce the amount as necessary).
 3. Soak, jostling contents every hour or so, for 4-6 hours.
-4. Remove from brine, reserve in the fridge until needed.
+4. Remove from brine and reserve in the fridge until needed.
