@@ -62,7 +62,7 @@ The bonito adds umami depth while the kombu contributes subtle oceanic notes. Th
 - 40 milliliters mirin
 - 2.5 grams sugar
 - 19 grams salt
-- 62.5 milliliters chintan broth
+- 62 milliliters chintan broth
 - 2.5 milliliters rice vinegar
 - 7-10 milliliters yuzu juice (adjust to taste)
 - 2 grams MSG
@@ -85,14 +85,16 @@ Use 30 milliliters of tare per bowl. Yuzu juice can vary in intensity, so adjust
 - 1 5-centimeter piece of fresh ginger, sliced into thin coins
 - 4 cloves garlic, smashed
 - 2-3 dried red chilis, whole or broken
+- 2-3 green onions (scallions), white and light green parts only, cut into 3-centimeter pieces
 
 This aromatic oil adds warmth and complexity to the bowl. The gentle infusion extracts flavor without burning the aromatics, creating a fragrant oil that complements the citrus notes.
 
 1. In a small saucepan, combine the oil, ginger, garlic, and chilis.
 2. Place over medium-low heat and warm gently. You should see small bubbles forming around the aromatics, but not aggressive frying.
 3. Cook for 15-20 minutes, stirring occasionally, until the ginger and garlic are golden and fragrant. Watch carefully to prevent burning.
-4. Remove from heat and let the aromatics steep in the oil for 10 minutes.
-5. Strain the oil through a fine-mesh strainer into a clean container, discarding the solids.
-6. Store at room temperature for up to 1 week, or refrigerate for up to 1 month.
+4. Remove from heat and immediately add the green onions. The residual heat will gently cook them without burning.
+5. Let the aromatics steep in the oil for 10 minutes.
+6. Strain the oil through a fine-mesh strainer into a clean container, discarding the solids.
+7. Store at room temperature for up to 1 week, or refrigerate for up to 1 month.
 
 Use 13 milliliters of aromatic oil per bowl. The ginger provides a warming bite, while the garlic adds savory depth and the chilis contribute gentle heat.
