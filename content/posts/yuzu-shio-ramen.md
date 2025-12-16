@@ -1,5 +1,5 @@
 +++
-title="[DRAFT] Yuzu Shio Ramen"
+title="Yuzu Shio Ramen"
 description="A bright, citrusy shio ramen with yuzu-infused tare and aromatic oil"
 date=2025-12-14T22:00:00+01:00
 tldr="Light and refreshing yuzu shio ramen with dashi-enhanced chintan and aromatic ginger-chili oil."
