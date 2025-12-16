@@ -15,7 +15,7 @@ pagerSize = 3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Brewing Insights from Data to Espresso: A Curious Engineer's Quest for Knowledge and Specialty Coffee"
+	subtitle = "A Curious Engineer's Journey Through Data, Code, and Culinary Experiments"
 	favicon = "/favicon.svg" # path to favicon
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
@@ -45,7 +45,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 2
 
