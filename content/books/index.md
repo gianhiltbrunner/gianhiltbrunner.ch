@@ -57,6 +57,4 @@ cover = "/images/books/dune.jpeg"
 description = "The epic tale of desert planet Arrakis"
 +++
 
-## My Reading Collection
-
 Current collection of book recommendations.

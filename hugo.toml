@@ -49,9 +49,10 @@ name = "Posts"
 url = "/posts"
 weight = 2
 
+
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Tags"
+url = "/tags"
 weight = 3
 
 [[menu.main]]
@@ -60,6 +61,6 @@ url = "/books"
 weight = 4
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "About"
+url = "/about"
 weight = 5
