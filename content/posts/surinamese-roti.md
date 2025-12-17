@@ -17,6 +17,7 @@ This Surinamese roti is a beloved weeknight staple in the Netherlands, where my 
 - 4 cloves garlic, minced
 - 2 tablespoons vegetable oil
 - 2-3 tablespoons roti spice (recipe below)
+- 1 can (400 grams) diced tomatoes
 - 500 milliliters water or vegetable stock
 - Salt, to taste
 - 4-6 hard-boiled eggs, peeled
@@ -29,11 +30,12 @@ This curry is all about building layers of flavor with the aromatic roti spice b
 1. Heat the oil in a large pot. Sweat the onions until soft and translucent.
 2. Add the garlic and cook until fragrant.
 3. Stir in the roti spice and toast briefly to bloom the aromatics.
-4. Add the green beans and coat with the spice mixture.
-5. Pour in the water or stock and season with salt. Bring to a boil, then reduce to a gentle simmer and cover.
-6. Once the beans have softened a bit, add the potatoes and continue cooking, covered, until the potatoes are tender and breaking down and the beans are very soft.
-7. Nestle the hard-boiled eggs into the curry and let them steep in the sauce to absorb the flavors.
-8. Taste and adjust seasoning. The curry should be thick and saucy—add water if needed.
+4. Add the canned tomatoes and cook for 2-3 minutes, breaking them up with a spoon.
+5. Add the green beans and coat with the spice mixture.
+6. Pour in the water or stock and season with salt. Bring to a boil, then reduce to a gentle simmer and cover.
+7. Once the beans have softened a bit, add the potatoes and continue cooking, covered, until the potatoes are tender and breaking down and the beans are very soft.
+8. Nestle the hard-boiled eggs into the curry and let them steep in the sauce to absorb the flavors.
+9. Taste and adjust seasoning. The curry should be thick and saucy—add water if needed.
 
 **To serve:** Warm the roti or paratha according to package directions. Place a generous portion of the curry on each flatbread, add an egg, and wrap. Alternatively, serve the curry and eggs on a plate with the flatbread on the side for tearing and dipping.
 
