@@ -4,7 +4,7 @@ description="My best ramen recipe so far - a rich double soup with homemade tare
 date=2025-06-16T20:00:00+01:00
 tldr="My best ramen recipe so far. Takes a bit of time to make. But the tare can be made in large batches and refrigerated."
 draft=false
-tags=["ramen", "recipe", "japanese", "cooking"]
+tags=["ramen", "recipe", "japanese", "shoyu"]
 +++
 
 This shoyu (soy sauce) ramen features a double soup combining rich chicken stock with umami-packed dashi, seasoned with a homemade tare made from slow-cooked sofrito. The result is a deeply flavorful bowl with layers of complexity. While the process takes time, most components can be prepared in advance and stored for quick assembly later.
