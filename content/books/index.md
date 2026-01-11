@@ -55,6 +55,12 @@ title = "Dune"
 author = "Frank Herbert"
 cover = "/images/books/dune.jpeg"
 description = "The epic tale of desert planet Arrakis"
+
+[[books]]
+title = "Capitalism and Its Critics"
+author = "John Cassidy"
+cover = "/images/books/capitalism-and-its-critics.jpg"
+description = "A History: From the Industrial Revolution to AI"
 +++
 
 Current collection of book recommendations.
