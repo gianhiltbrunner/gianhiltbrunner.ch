@@ -52,7 +52,7 @@ Makes 1 portion
 
 9. Cut your noodles to your desired thickness. I use the 1.6 mm cutter.
 
-10. Bundle the noodles into 130 gram portions and place them in a sealable bag. Put the bag in the fridge and allow it to rest for at least a day.
+10. Bundle the noodles into 130 gram portions and place them in a sealable bag. Put the bag in the fridge and allow it to rest for at least a day or around 4-6 hours at room temperature.
 
 ## Scaling Chart
 
