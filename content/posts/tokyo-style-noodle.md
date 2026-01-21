@@ -1,23 +1,23 @@
 +++
-title = "Tokyo Style Noodle"
-description = "A good, all-purpose noodle recipe usable in many different ramen applications. Can be cut with a standard 1.5 mm cutter or thinner, works with most soups."
-date = 2026-01-20T00:00:00+01:00
-tldr = "Versatile Tokyo-style ramen noodle that works with any broth"
+title = "Tokyo Style Ramen Noodle (38%)"
+description = "A versatile 38% hydration ramen noodle made with Manitoba flour. Works with most broths and is relatively easy to make."
+date = 2025-01-21T20:00:00+01:00
+tldr = "Classic Tokyo-style noodle with 38% hydration that works with any broth"
 draft = false
 tags = ["ramen", "recipe", "japanese", "noodles"]
 +++
 
-This is a good, all-purpose noodle, usable in many different ramen applications. You can cut it with a standard 1.5 mm cutter, or thinner. It can be crinkly or straight. It works with most soups. It's also relatively easy to make compared to other styles.
+This Tokyo-style ramen noodle features a 38% hydration ratio, making it firm and springy with excellent bite. Made with high-protein Manitoba flour, it's versatile enough to pair with any broth style. Cut it to your preferred thickness with a standard 1.5 mm cutter or thinner, and shape it crinkly or straight. Compared to other regional noodle styles, it's relatively straightforward to make at home.
 
 ## Sources
 
 > The Book of Ramen; Michael T. Satinover and Scott J. Satinover
 
-## Tokyo Style Noodle
+## Tokyo Style Ramen Noodle (38%)
 
 Makes 1 portion
 
-- 99 grams King Arthur bread flour
+- 99 grams Manitoba flour
 - 1 gram vital wheat gluten
 - 38 grams water
 - 1 gram salt
@@ -50,7 +50,7 @@ Makes 1 portion
 
 | Ingredient | 4 Portions | 6 Portions | 8 Portions |
 |------------|------------|------------|------------|
-| King Arthur bread flour | 396 g | 594 g | 792 g |
+| Manitoba flour | 396 g | 594 g | 792 g |
 | Vital wheat gluten | 4 g | 6 g | 8 g |
 | Water | 152 g | 228 g | 304 g |
 | Salt | 4 g | 6 g | 8 g |
