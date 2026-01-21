@@ -7,7 +7,7 @@ draft = false
 tags = ["ramen", "recipe", "japanese", "noodles"]
 +++
 
-This is my go-to noodle recipe for most ramen bowls. The 38% hydration ratio gives it a firm, springy texture with excellent bite. I use Manitoba flour and typically cut these at 1.6 mm, though you can adjust to your preference.
+This is my go-to noodle recipe for most ramen bowls, adapted from Michael T. Satinover's "The Book of Ramen." The 38% hydration ratio gives it a firm, springy texture with excellent bite. I use Manitoba flour and typically cut these at 1.6 mm, though you can adjust to your preference.
 
 ## Sources
 
