@@ -57,4 +57,4 @@ cover = "/images/books/dune.jpeg"
 description = "The epic tale of desert planet Arrakis"
 +++
 
-Current collection of book recommendations.
+Current collection of book recommendations. My interests span plant-focused cooking, geopolitics, macroeconomics, and sci-fi.
