@@ -1,7 +1,7 @@
 +++
 title = "Tokyo Style Noodle"
 description = "A good, all-purpose noodle recipe usable in many different ramen applications. Can be cut with a standard 1.5 mm cutter or thinner, works with most soups."
-date = 2026-01-21T20:00:00+01:00
+date = 2025-01-21T20:00:00+01:00
 tldr = "Versatile Tokyo-style ramen noodle that works with any broth"
 draft = false
 tags = ["ramen", "recipe", "japanese", "noodles"]
