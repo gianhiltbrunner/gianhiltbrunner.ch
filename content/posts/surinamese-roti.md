@@ -1,7 +1,7 @@
 +++
 title="Vegetarian Surinamese Roti"
 description="A weeknight staple from the Netherlands - potato and green bean curry with eggs, wrapped in warm roti"
-date=2024-12-16T23:00:00+01:00
+date=2025-12-17T23:00:00+01:00
 tldr="Quick and comforting Surinamese roti with spiced potato-green bean curry, hard-boiled eggs, and warm flatbread. Perfect for weeknights."
 draft=false
 tags=["surinamese", "recipe", "dutch", "curry", "vegetarian", "weeknight"]
