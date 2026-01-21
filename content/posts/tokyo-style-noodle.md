@@ -9,6 +9,10 @@ tags = ["ramen", "recipe", "japanese", "noodles"]
 
 This is a good, all-purpose noodle, usable in many different ramen applications. You can cut it with a standard 1.5 mm cutter, or thinner. It can be crinkly or straight. It works with most soups. It's also relatively easy to make compared to other styles.
 
+## Sources
+
+> The Book of Ramen; Michael T. Satinover and Scott J. Satinover
+
 ## Tokyo Style Noodle
 
 Makes 1 portion
