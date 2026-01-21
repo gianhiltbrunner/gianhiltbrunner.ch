@@ -67,3 +67,7 @@ Makes 1 portion
 | Riboflavin (optional) | pinch | pinch | pinch |
 | **Water (38% Standard)** | **152 g** | **228 g** | **304 g** |
 | **Water (35% Low)** | **140 g** | **210 g** | **280 g** |
+
+## Cooking
+
+Cook for 1 min 15 sec to 1 min 30 sec.
