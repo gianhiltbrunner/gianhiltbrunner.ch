@@ -63,4 +63,4 @@ cover = "/images/books/capitalism-critics.webp"
 description = "A sweeping history of capitalism through the eyes of its fiercest critics, from the Industrial Revolution to AI"
 +++
 
-Current collection of book recommendations.
+Current collection of book recommendations. My interests span plant-focused cooking, geopolitics, macroeconomics, and sci-fi.
