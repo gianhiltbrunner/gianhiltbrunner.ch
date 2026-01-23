@@ -9,15 +9,6 @@ tags=["ramen", "recipe", "japanese", "yuzu", "shio"]
 
 This yuzu shio ramen showcases the bright, aromatic flavors of Japanese citrus. A delicate chicken chintan enhanced with bonito and kombu provides the base, while yuzu juice in the tare adds a refreshing citrus note. The aromatic oil brings warmth and depth with ginger, garlic, and chili.
 
-## Dependency Graph
-
-{{< mermaid >}}
-graph TD;
-    Chintan-->Bowl;
-    Tare --> Bowl;
-    Oil --> Bowl;
-{{< /mermaid >}}
-
 ## Ramen Bowl
 
 Makes 1 bowl
