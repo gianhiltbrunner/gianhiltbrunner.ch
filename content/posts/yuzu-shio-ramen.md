@@ -24,16 +24,19 @@ Makes 1 bowl
 
 This yuzu shio ramen balances clean, light flavors with aromatic depth. The yuzu in the tare provides brightness without overwhelming the delicate chintan.
 
-- 370 milliliters chintan broth, hot
-- 30 milliliters yuzu shio tare
-- 13 milliliters aromatic oil
+- 370 milliliters chintan broth, hot [30-40 milliliters for mazemen]
+- 30 milliliters yuzu shio tare [45-50 milliliters for mazemen]
+- 13 milliliters aromatic oil [20-25 milliliters for mazemen]
 - 130 grams ramen noodles, cooked
-- Toppings: sliced scallions, nori, menma (bamboo shoots)
+- Optional: 1 egg yolk (adds richness, especially good for mazemen)
+- Toppings: sliced scallions, nori, menma (bamboo shoots), plus consider chashu pork or ajitsuke tamago
 
 1. Add the tare and aromatic oil to the bottom of a serving bowl.
 2. Pour the hot chintan over the tare and oil, whisking gently to combine.
 3. Add the cooked noodles.
 4. Top with scallions, nori, and menma.
+
+**For Mazemen (Brothless)**: Use the amounts in square brackets above. The reduced broth creates a sauce-like consistency that coats the noodles. Add an egg yolk for extra richness and toss everything together before eating.
 
 ## Chintan Broth
 
@@ -77,7 +80,7 @@ This shio tare is built around yuzu, the prized Japanese citrus with a distincti
 6. Taste and adjust yuzu juice as desired. Start with 7 ml for subtle citrus, up to 10 ml for brighter flavor.
 7. Store in the refrigerator for up to 1 week.
 
-Use 30 milliliters of tare per bowl. Yuzu juice can vary in intensity, so adjust to your preference.
+Use 30 milliliters of tare per bowl [45-50 milliliters for mazemen]. Yuzu juice can vary in intensity, so adjust to your preference.
 
 ## Aromatic Oil
 
@@ -97,4 +100,4 @@ This aromatic oil adds warmth and complexity to the bowl. The gentle infusion ex
 6. Strain the oil through a fine-mesh strainer into a clean container, discarding the solids.
 7. Store at room temperature for up to 1 week, or refrigerate for up to 1 month.
 
-Use 13 milliliters of aromatic oil per bowl. The ginger provides a warming bite, while the garlic adds savory depth and the chilis contribute gentle heat.
+Use 13 milliliters of aromatic oil per bowl [20-25 milliliters for mazemen]. The ginger provides a warming bite, while the garlic adds savory depth and the chilis contribute gentle heat.
