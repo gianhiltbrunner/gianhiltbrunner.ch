@@ -123,23 +123,6 @@ If using frozen, thaw and drain. If fresh, blanch briefly or char in a dry skill
 
 Blanch in boiling water for 30 seconds, drain immediately. Reserve a portion to sauté in the wok during assembly — these get charred flavor from the wok method.
 
-### Seasoned Tofu Crumble
-
-This replaces the seasoned ground pork often found in Sapporo miso bowls.
-
-- 200 grams firm tofu
-- 10 milliliters vegetable oil
-- 10 milliliters soy sauce
-- 5 milliliters mirin
-- 2 grams sugar
-- pinch of white pepper
-
-1. Press the tofu in a clean towel for 15 minutes to remove excess moisture.
-2. Crumble by hand into small, uneven pieces.
-3. Heat oil in a skillet over medium-high heat. Add tofu and cook 5-6 minutes until edges are golden.
-4. Add soy sauce, mirin, sugar, and white pepper. Stir to coat.
-5. Cook 1-2 minutes until liquid is absorbed.
-
 ### Other Toppings
 
 - Scallions, sliced into thin ringlets or fine dice
