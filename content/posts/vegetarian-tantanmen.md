@@ -9,16 +9,6 @@ tags=["ramen", "recipe", "japanese", "vegetarian", "tantanmen"]
 
 This vegetarian tantanmen delivers the classic spicy, nutty flavors of the Sichuan-inspired ramen without meat. A light vegetable chintan provides the base, enriched with ground sesame tare and aromatic chili oil. The blended soup creates a creamy, unified broth that coats the noodles beautifully.
 
-## Dependency Graph
-
-{{< mermaid >}}
-graph TD;
-    Chintan-->Bowl;
-    Tare --> Bowl;
-    Oil --> Bowl;
-    Egg --> Bowl;
-{{< /mermaid >}}
-
 ## Tantanmen Bowl
 
 Makes 1 bowl

@@ -9,38 +9,6 @@ tags=["ramen", "recipe", "japanese", "shoyu"]
 
 This shoyu (soy sauce) ramen features a double soup combining rich chicken stock with umami-packed dashi, seasoned with a homemade tare made from slow-cooked sofrito. The result is a deeply flavorful bowl with layers of complexity. While the process takes time, most components can be prepared in advance and stored for quick assembly later.
 
-## Dependency Graph
-
-{{< mermaid >}}
-graph TD;
-    Eggs-->Bowl;
-    Sofrito --> Tare --> Bowl;
-    Dashi --> Soup;
-    Stock --> Soup;
-    Soup --> Bowl;
-{{< /mermaid >}}
-
-## Timing
-
-{{< mermaid >}}
-gantt
-    dateFormat mm
-    tickInterval 1hour
-    axisFormat %Hh
-    section Tare
-        Sofrito: sofrito, 0, 420m
-        Tare: tare, after sofrito, 10m
-    section Soup
-        Dashi : 0, 40m
-        Stock (pressure cooker) :stock, 0, 60m
-        Stock (normal pot) :stock, 0, 360m
-        Soup :after stock, 10m
-    section Eggs
-        Eggs : 0, 360m
-    section Bowl
-        Bowl: after tare, 30m
-{{< /mermaid >}}
-
 ## Sources
 
 > Ivan Ramen: Love, Obsession, and Recipes From Tokyo's Most Unlikely Noodle Joint; Ivan Orkin
