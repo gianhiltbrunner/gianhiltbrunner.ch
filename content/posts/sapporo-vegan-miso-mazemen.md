@@ -41,7 +41,7 @@ Makes 1 bowl
 
 ## Vegan Miso Tare
 
-Adapted from Mike Satinover's Miso Tare — his most important recipe, refined over more than 10 years.
+Adapted from Mike Satinover's Miso Tare, refined over more than 10 years.
 
 - 140 grams raw onion, pureed in a food processor (approximately half an onion)
 - 7 grams garlic, grated (approximately 2 cloves)
