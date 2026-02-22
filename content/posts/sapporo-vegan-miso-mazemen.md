@@ -41,7 +41,7 @@ Makes 1 bowl
 
 ## Vegan Miso Tare
 
-Adapted from Mike Satinover's Miso Tare — his most important recipe, refined over more than 10 years. The original uses three types of miso, caramelized onion puree, raw garlic and ginger, soy sauce, mirin, sesame oil, tahini, doubanjiang, and black pepper. This version removes the sesame oil and tahini to keep the miso front and center and avoid drifting toward tantanmen.
+Adapted from Mike Satinover's Miso Tare — his most important recipe, refined over more than 10 years. Three types of miso, caramelized onion puree, raw garlic and ginger, soy sauce, mirin, sesame oil, tahini, doubanjiang, and black pepper. In a soup, the sesame and tahini can push toward tantanmen territory — but in mazemen, where the tare is concentrated and mixed directly into noodles, they add richness without dominating.
 
 - 140 grams raw onion, pureed in a food processor (approximately half an onion)
 - 7 grams garlic, grated (approximately 2 cloves)
@@ -51,6 +51,8 @@ Adapted from Mike Satinover's Miso Tare — his most important recipe, refined o
 - 80 grams hatcho miso (or dark red miso)
 - 20 grams mirin
 - 30 grams soy sauce
+- 15 grams sesame oil
+- 15 grams tahini
 - 2 grams doubanjiang (chili bean paste)
 - 1 gram black pepper (approximately 20 grinds from a mill)
 - pinch of white pepper
@@ -59,7 +61,7 @@ Adapted from Mike Satinover's Miso Tare — his most important recipe, refined o
 1. Take 70 grams of the raw onion puree and add to a small pan.
 1. Cook over low heat, stirring frequently, until golden brown, around 20-30 minutes. This caramelization step converts sharp raw onion into a deeply sweet, complex base that rounds out the miso.
 1. Remove from heat, place the cooked onion in a mixing bowl.
-1. When the onion has cooled, add all remaining ingredients — the raw onion puree, garlic, ginger, misos, mirin, soy sauce, doubanjiang, and peppers. Use a whisk to combine.
+1. When the onion has cooled, add all remaining ingredients — the raw onion puree, garlic, ginger, misos, mirin, soy sauce, sesame oil, tahini, doubanjiang, and peppers. Use a whisk to combine.
 1. Place in the fridge in a covered container and allow the tare to mature for at least 24 hours. This rest removes harshness from the raw vegetables and lets the flavors integrate. The tare will keep for up to 12 months.
 
 Use 50 grams of tare per mazemen bowl (or 80 grams per 300 mL soup if making the ramen version).
