@@ -7,9 +7,9 @@ draft=false
 tags=["ramen", "recipe", "japanese", "vegan", "miso", "sapporo", "mazemen"]
 +++
 
-Mazemen (also called mazesoba or aburasoba) strips ramen down to its most concentrated form by removing the soup entirely. As Mike Satinover notes in *The Book of Ramen*, virtually any ramen style can become mazemen by placing the tare and aroma oil in the bottom of the bowl, adding noodles, applying garnishes, and asking the eater to mix. Every strand of noodle gets coated in sauce rather than floating in broth.
+The best miso ramen I've ever had was in Sapporo. Rich, deeply savory, and built on a pork bone broth that gets its body from hours of extracted collagen. This recipe is a vegan homage to that bowl — and mazemen turns out to be the ideal format for it. Traditional miso ramen broth relies on collagen for its thick, lip-coating texture, which is difficult to replicate plant-based. By removing the soup entirely, that problem disappears. All the Sapporo miso flavor stays, concentrated and direct.
 
-This recipe takes the components from the Sapporo Vegan Miso Ramen and rebalances them for a soupless format. The tare quantity is reduced since there's no broth to dilute it, and a small amount of soy milk loosens the sauce enough to coat the noodles. The noodles are cut thicker and portioned larger — without soup to fill you up, you need more noodle.
+Mazemen (also called mazesoba or aburasoba) strips ramen down to its most concentrated form. As Mike Satinover notes in *The Book of Ramen*, virtually any ramen style can become mazemen by placing the tare and aroma oil in the bottom of the bowl, adding noodles, applying garnishes, and asking the eater to mix. Every strand of noodle gets coated in sauce rather than floating in broth. The tare quantity is reduced since there's no broth to dilute it, and a small amount of soy milk loosens the sauce enough to coat the noodles.
 
 ## Sources
 
@@ -28,20 +28,16 @@ Makes 1 bowl
 
 1. Add the miso tare and ginger and onion oil to the bottom of a preheated serving bowl.
 2. Add the warm soy milk and stir briefly to loosen the tare into a thick sauce. It should not be liquid — just loose enough to coat noodles when mixed. The soy milk adds body and subtle creaminess that water or stock wouldn't provide.
-3. Cook the noodles in rapidly boiling water. Since these are cut thicker than the soup version, they may need an extra 30-60 seconds. Taste for doneness.
+3. Cook the noodles in rapidly boiling water. Thick noodles may need an extra 30-60 seconds compared to standard ramen noodles. Taste for doneness.
 4. Drain the noodles thoroughly. Shake the basket hard — excess water dilutes your sauce, and there's no broth to absorb it.
 5. Place the noodles on top of the tare and oil. Do not mix yet.
 6. Arrange toppings: corn, sliced scallions, a sheet of nori, menma, and a pat of vegan butter.
 7. Finish with chili oil if desired.
 8. Mix everything together at the table before eating, lifting the noodles from the bottom to distribute the tare evenly.
 
-**On Tare Quantity**: The miso ramen uses 80 grams of tare diluted in 350 milliliters of liquid. Without soup, that same 80 grams coating 180 grams of noodles would be overwhelming. 50 grams with a splash of soy milk hits the right salt and flavor intensity. Adjust up or down by 5-10 grams to taste — mazemen is personal.
+**On Tare Quantity**: A typical miso ramen bowl uses around 80 grams of tare diluted in 350 milliliters of broth. Without soup, that same 80 grams coating 180 grams of noodles would be overwhelming. 50 grams with a splash of soy milk hits the right salt and flavor intensity. Adjust up or down by 5-10 grams to taste — mazemen is personal.
 
 **On the Bowl Method**: Sauce in the bottom, noodles on top, garnishes applied, the customer mixes. The first bites from the top are relatively plain, and you discover the sauce as you dig in — the act of mixing is part of the experience. This also means the noodles aren't sitting in sauce the entire time, which preserves their texture longer.
-
-## Other Components
-
-The **Vegan Miso Tare** and **Ginger and Onion Oil** are identical to the miso ramen recipe.
 
 ## Toppings
 
