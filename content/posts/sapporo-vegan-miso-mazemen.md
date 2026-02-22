@@ -39,18 +39,6 @@ Makes 1 bowl
 
 **On the Bowl Method**: Sauce in the bottom, noodles on top, garnishes applied, the customer mixes. The first bites from the top are relatively plain, and you discover the sauce as you dig in — the act of mixing is part of the experience. This also means the noodles aren't sitting in sauce the entire time, which preserves their texture longer.
 
-## Noodles
-
-The book's dedicated mazesoba noodle uses all-purpose flour and whole egg, since noodles that don't sit in soup need less structural integrity from high-protein bread flour. For a vegan version, the Sapporo-style noodle works well — just cut it thicker and portion it larger.
-
-Use the Sapporo-style noodle recipe from the miso ramen, with these modifications:
-
-- Cut at 2.0 millimeters by 2.0 millimeters instead of 1.5 — a thicker noodle gives more chew and more surface area to grip the sauce.
-- Bundle into 180-gram portions instead of 140.
-- Optionally skip the crinkle — a straight, thick noodle also works for mazemen, since you're not trying to catch soup in the curls.
-
-Alternatively, use store-bought thick ramen noodles (fresh or frozen, egg-free).
-
 ## Other Components
 
 The **Vegan Miso Tare** and **Ginger and Onion Oil** are identical to the miso ramen recipe.
