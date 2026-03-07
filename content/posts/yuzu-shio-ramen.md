@@ -16,8 +16,8 @@ Makes 1 bowl
 This yuzu shio ramen balances clean, light flavors with aromatic depth. The yuzu in the tare provides brightness without overwhelming the delicate chintan.
 
 - 370 milliliters chintan broth, hot
-- 30 milliliters yuzu shio tare
-- 13 milliliters aromatic oil
+- 30 milliliters (2 tablespoons) yuzu shio tare
+- 15 milliliters (1 tablespoon) aromatic oil
 - 130 grams ramen noodles, cooked
 - Toppings: sliced scallions, nori, menma (bamboo shoots)
 
@@ -68,7 +68,7 @@ This shio tare is built around yuzu, the prized Japanese citrus with a distincti
 6. Taste and adjust yuzu juice as desired. Start with 7 ml for subtle citrus, up to 10 ml for brighter flavor.
 7. Store in the refrigerator for up to 1 week.
 
-Use 30 milliliters of tare per bowl. Yuzu juice can vary in intensity, so adjust to your preference.
+Use 30 milliliters (2 tablespoons) of tare per bowl. Yuzu juice can vary in intensity, so adjust to your preference.
 
 ## Aromatic Oil
 
@@ -88,4 +88,4 @@ This aromatic oil adds warmth and complexity to the bowl. The gentle infusion ex
 6. Strain the oil through a fine-mesh strainer into a clean container, discarding the solids.
 7. Store at room temperature for up to 1 week, or refrigerate for up to 1 month.
 
-Use 13 milliliters of aromatic oil per bowl. The ginger provides a warming bite, while the garlic adds savory depth and the chilis contribute gentle heat.
+Use 15 milliliters (1 tablespoon) of aromatic oil per bowl. The ginger provides a warming bite, while the garlic adds savory depth and the chilis contribute gentle heat.
