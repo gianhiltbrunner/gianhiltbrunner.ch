@@ -64,7 +64,7 @@ The bonito adds umami depth while the kombu contributes subtle oceanic notes. Th
 - 1 bunch green onions
 - 20 grams kombu
 
-Vegetarian soups run into a few challenges: they lack the viscosity and umami depth that animal-based broths provide naturally. This vegetable chintan controls for umami by including kombu and dried shiitake, which together supply glutamic acid and guanylic acid. However, the broth is distinctly light in texture, so it pairs best with a tare that amplifies viscosity, like a miso tare or a tantanmen tare, rather than the yuzu shio tare above.
+Vegetarian soups run into a few challenges: they lack the viscosity and umami depth that animal-based broths provide naturally. This vegetable chintan controls for umami by including kombu and dried shiitake, which together supply glutamic acid and guanylic acid.
 
 1. Add the water, onion, carrot, garlic, ginger, and dried shiitake to a pot.
 2. Bring to a boil over high heat, then reduce to a simmer.
