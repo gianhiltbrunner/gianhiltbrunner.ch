@@ -20,7 +20,7 @@ Makes 1 bowl
 
 This yuzu shio ramen balances clean, light flavors with aromatic depth. The yuzu in the tare provides brightness without overwhelming the delicate chintan.
 
-- 370 milliliters chintan broth, hot
+- 360 milliliters (2 large ladles or 3 small ladles) chintan broth, hot
 - 30 milliliters (2 tablespoons) yuzu shio tare
 - 15 milliliters (1 tablespoon) aromatic oil
 - 130 grams ramen noodles, cooked
