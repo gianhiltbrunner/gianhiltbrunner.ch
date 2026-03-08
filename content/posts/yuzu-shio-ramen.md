@@ -80,7 +80,7 @@ Vegetarian soups run into a few challenges: they lack the viscosity and umami de
 - 62 milliliters chintan broth
 - 2.5 milliliters rice vinegar
 - 7-10 milliliters yuzu juice (adjust to taste)
-- 2 grams MSG
+- 5 grams MSG
 
 This shio tare is built around yuzu, the prized Japanese citrus with a distinctive floral-tart flavor. The mirin adds subtle sweetness that balances the salt and acidity.
 
