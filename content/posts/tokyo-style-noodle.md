@@ -5,6 +5,7 @@ date = 2025-01-21T20:00:00+01:00
 tldr = "Classic Tokyo-style noodle with varying hydration options that work with any broth"
 draft = false
 tags = ["ramen", "recipe", "japanese", "noodles"]
+pin=true
 +++
 
 This is my go-to noodle recipe for most ramen bowls, adapted from Michael T. Satinover's "The Book of Ramen." The 38% hydration ratio gives it a firm, springy texture with excellent bite. I use Manitoba flour (due to its high gluten content) and typically cut these at 1.6 mm, though you can adjust to your preference.
