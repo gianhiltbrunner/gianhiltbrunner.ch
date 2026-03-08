@@ -31,7 +31,7 @@ This yuzu shio ramen balances clean, light flavors with aromatic depth. The yuzu
 3. Add the cooked noodles.
 4. Top with scallions, nori, and menma.
 
-## Chintan Broth
+## Chintan Broth (Makes ~8 bowls)
 
 - 1 large (2-kilo) whole chicken (or 2 small whole chickens)
 - Water (1 part chicken to 2 parts water by volume)
@@ -53,7 +53,7 @@ The bonito adds umami depth while the kombu contributes subtle oceanic notes. Th
 
 **The Chemistry of Umami Synergy**: Kombu contains glutamate (glutamic acid), while bonito provides inosinate (inosinic acid). When combined, these two umami compounds create a synergistic effect where the total umami intensity is approximately 8 times greater than the sum of each component alone. This multiplicative interaction occurs because glutamate and inosinate bind to different umami receptors on the tongue, amplifying the overall savory perception. This is why adding both kombu and bonito transforms a simple chicken broth into something extraordinary.
 
-## Vegetable Chintan (Vegetarian Option)
+## Vegetable Chintan (Vegetarian Option, Makes ~7 bowls)
 
 - 3 liters water
 - 1 onion, split and peeled
@@ -72,7 +72,7 @@ Vegetarian soups run into a few challenges: they lack the viscosity and umami de
 4. Add the green onions and kombu, turn off the heat, and let steep for 15 minutes.
 5. Strain the soup and reserve until needed.
 
-## Yuzu Shio Tare
+## Yuzu Shio Tare (Makes ~4 bowls)
 
 - 40 milliliters mirin
 - 2.5 grams sugar
@@ -94,7 +94,7 @@ This shio tare is built around yuzu, the prized Japanese citrus with a distincti
 
 Use 30 milliliters (2 tablespoons) of tare per bowl. Yuzu juice can vary in intensity, so adjust to your preference.
 
-## Aromatic Oil
+## Aromatic Oil (Makes ~6 bowls)
 
 - 100 milliliters vegetable oil (neutral flavor, such as grapeseed or canola)
 - 1 5-centimeter piece of fresh ginger, sliced into thin coins
