@@ -10,6 +10,10 @@ tags=["ramen", "recipe", "japanese", "yuzu", "shio"]
 
 This yuzu shio ramen showcases the bright, aromatic flavors of Japanese citrus. A delicate chicken chintan enhanced with bonito and kombu provides the base, while yuzu juice in the tare adds a refreshing citrus note. The aromatic oil brings warmth and depth with ginger, garlic, and chili.
 
+## Sources
+
+> The Book of Ramen; Michael T. Satinover and Scott J. Satinover
+
 ## Ramen Bowl
 
 Makes 1 bowl
@@ -48,6 +52,25 @@ This chintan is a clear, light chicken broth enhanced with a quick dashi infusio
 The bonito adds umami depth while the kombu contributes subtle oceanic notes. This two-stage process keeps the broth crystal clear while building complex flavor layers.
 
 **The Chemistry of Umami Synergy**: Kombu contains glutamate (glutamic acid), while bonito provides inosinate (inosinic acid). When combined, these two umami compounds create a synergistic effect where the total umami intensity is approximately 8 times greater than the sum of each component alone. This multiplicative interaction occurs because glutamate and inosinate bind to different umami receptors on the tongue, amplifying the overall savory perception. This is why adding both kombu and bonito transforms a simple chicken broth into something extraordinary.
+
+## Vegetable Chintan (Vegetarian Option)
+
+- 3 liters water
+- 1 onion, split and peeled
+- 1 carrot, peeled, cut into large chunks
+- 10 cloves garlic
+- 1 5-centimeter piece of ginger
+- 10 grams dried shiitake
+- 1 bunch green onions
+- 20 grams kombu
+
+Vegetarian soups run into a few challenges: they lack the viscosity and umami depth that animal-based broths provide naturally. This vegetable chintan controls for umami by including kombu and dried shiitake, which together supply glutamic acid and guanylic acid. However, the broth is distinctly light in texture, so it pairs best with a tare that amplifies viscosity, like a miso tare or a tantanmen tare, rather than the yuzu shio tare above.
+
+1. Add the water, onion, carrot, garlic, ginger, and dried shiitake to a pot.
+2. Bring to a boil over high heat, then reduce to a simmer.
+3. Cook at a simmer (around 95°C) for one hour.
+4. Add the green onions and kombu, turn off the heat, and let steep for 15 minutes.
+5. Strain the soup and reserve until needed.
 
 ## Yuzu Shio Tare
 

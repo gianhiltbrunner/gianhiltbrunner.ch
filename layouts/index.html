@@ -20,7 +20,7 @@
 				{{ range $paginator.Pages }}
 				<section class="list-item">
 					<h1 class="title">
-						{{- if .Params.pin }}<span class="pin-indicator" title="Pinned post">&#128204;</span> {{ end -}}
+						{{- if .Params.pin }}<span class="pin-indicator" title="Pinned post"></span> {{ end -}}
 						<a href="{{ .RelPermalink }}">{{.Title}}</a>
 					</h1>
 					<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>

@@ -11,7 +11,7 @@
 	{{- range $pinned -}}
 		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
 		<li class="post">
-			<span class="pin-indicator" title="Pinned post">&#128204;</span>
+			<span class="pin-indicator" title="Pinned post"></span>
 			<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
 		</li>
 		{{- end -}}
