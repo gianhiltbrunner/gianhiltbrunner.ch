@@ -1,0 +1,98 @@
+/* Cocktail Menu Styles */
+.cocktail-menu {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.cocktail-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.cocktail-header h1 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 2.2rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  margin: 1rem 0;
+}
+
+.cocktail-ornament {
+  font-size: 1.5rem;
+  color: #999;
+  letter-spacing: 0.5em;
+}
+
+.cocktail-rule {
+  width: 60%;
+  margin: 1rem auto 0;
+  border: none;
+  border-top: 1px solid var(--bordercl);
+}
+
+.cocktail-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.cocktail-card {
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.cocktail-name {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+}
+
+.cocktail-ingredients {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 0.9rem;
+  color: #737373;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+  letter-spacing: 0.02em;
+}
+
+.cocktail-notes {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.cocktail-note {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--bordercl);
+  border-radius: 2px;
+  color: #666;
+}
+
+.cocktail-footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--bordercl);
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .cocktail-header h1 {
+    font-size: 1.6rem;
+    letter-spacing: 0.2em;
+  }
+
+  .cocktail-name {
+    font-size: 1.1rem;
+  }
+}
