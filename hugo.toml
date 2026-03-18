@@ -19,7 +19,7 @@ pagerSize = 5 # articles per page
 	favicon = "/favicon.svg" # path to favicon
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
-	customCSS = ["css/books.css", "css/mermaid.css", "css/pin.css"] # custom CSS files
+	customCSS = ["css/books.css", "css/mermaid.css", "css/pin.css", "css/cocktails.css"] # custom CSS files
 	customJS = [
 		"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js",
 		"<script>mermaid.initialize({ startOnLoad: true, theme: 'default' });</script>"
