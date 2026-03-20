@@ -26,4 +26,9 @@ notes = ["Bright", "Bitter", "Warming"]
 name = "Negroni"
 ingredients = "Gin, Campari, Sweet Vermouth"
 notes = ["Bitter", "Herbaceous", "Bold"]
+
+[[cocktails]]
+name = "Bees Knees"
+ingredients = "Gin, Honey Syrup, Lemon"
+notes = ["Smooth", "Floral", "Citrus"]
 +++
