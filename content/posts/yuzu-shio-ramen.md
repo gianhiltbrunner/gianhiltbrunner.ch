@@ -36,7 +36,7 @@ This yuzu shio ramen balances clean, light flavors with aromatic depth. The yuzu
 - 1 large (2-kilo) whole chicken (or 2 small whole chickens)
 - Water (1 part chicken to 2 parts water by volume)
 - 10 grams bonito flakes (katsuobushi)
-- 5 grams kombu
+- 10 grams kombu
 
 This chintan is a clear, light chicken broth enhanced with a quick dashi infusion. The bonito and kombu are added after cooking to preserve their delicate flavors and prevent the broth from becoming cloudy.
 

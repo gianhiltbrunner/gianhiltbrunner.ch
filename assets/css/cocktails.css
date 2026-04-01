@@ -85,6 +85,20 @@
   border-top: 1px solid var(--bordercl);
 }
 
+.cocktail-backlink {
+  display: inline-block;
+  margin-top: 1rem;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  color: #999;
+  text-decoration: none;
+}
+
+.cocktail-backlink:hover {
+  color: inherit;
+}
+
 /* Responsive */
 @media (max-width: 480px) {
   .cocktail-header h1 {

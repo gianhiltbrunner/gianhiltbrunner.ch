@@ -1,33 +1,40 @@
-{{ define "main" }}
-<main>
-	<article>
-		<div class="cocktail-menu">
-			<div class="cocktail-header">
-				<div class="cocktail-ornament">&#10045;</div>
-				<h1>{{ .Title }}</h1>
-				<div class="cocktail-rule"></div>
-			</div>
+<!DOCTYPE html>
+<html>
+{{- partial "header.html" . -}}
+<body>
+	<div class="content">
+		<main>
+			<article>
+				<div class="cocktail-menu">
+					<div class="cocktail-header">
+						<div class="cocktail-ornament">&#10045;</div>
+						<h1>{{ .Title }}</h1>
+						<div class="cocktail-rule"></div>
+					</div>
 
-			{{ if .Params.cocktails }}
-			<div class="cocktail-list">
-				{{ range .Params.cocktails }}
-				<div class="cocktail-card">
-					<div class="cocktail-name">{{ .name }}</div>
-					<div class="cocktail-ingredients">{{ .ingredients }}</div>
-					{{ if .notes }}
-					<div class="cocktail-notes">
-						{{ range .notes }}<span class="cocktail-note">{{ . }}</span>{{ end }}
+					{{ if .Params.cocktails }}
+					<div class="cocktail-list">
+						{{ range .Params.cocktails }}
+						<div class="cocktail-card">
+							<div class="cocktail-name">{{ .name }}</div>
+							<div class="cocktail-ingredients">{{ .ingredients }}</div>
+							{{ if .notes }}
+							<div class="cocktail-notes">
+								{{ range .notes }}<span class="cocktail-note">{{ . }}</span>{{ end }}
+							</div>
+							{{ end }}
+						</div>
+						{{ end }}
 					</div>
 					{{ end }}
-				</div>
-				{{ end }}
-			</div>
-			{{ end }}
 
-			<div class="cocktail-footer">
-				<div class="cocktail-ornament">&#10045;</div>
-			</div>
-		</div>
-	</article>
-</main>
-{{ end }}
+					<div class="cocktail-footer">
+						<div class="cocktail-ornament">&#10045;</div>
+						<a href="/" class="cocktail-backlink">← Back</a>
+					</div>
+				</div>
+			</article>
+		</main>
+	</div>
+</body>
+</html>
