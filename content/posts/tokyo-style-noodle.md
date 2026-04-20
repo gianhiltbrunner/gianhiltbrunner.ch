@@ -56,14 +56,14 @@ Makes 1 portion
 
 *Select only **one** water row based on your desired hydration.*
 
-| Ingredient | 4 Portions | 6 Portions | 8 Portions |
-|------------|------------|------------|------------|
-| Manitoba flour | 396 g | 594 g | 792 g |
-| Wheat gluten | 4 g | 6 g | 8 g |
-| Salt | 4 g | 6 g | 8 g |
-| Baked soda | 4.8 g | 7.2 g | 9.6 g |
-| **Water (38% Standard)** | **152 g** | **228 g** | **304 g** |
-| **Water (35% Low)** | **140 g** | **210 g** | **280 g** |
+| Ingredient | 4 Portions | 8 Portions | 16 Portions |
+|------------|------------|------------|-------------|
+| Manitoba flour | 396 g | 792 g | 1584 g |
+| Wheat gluten | 4 g | 8 g | 16 g |
+| Salt | 4 g | 8 g | 16 g |
+| Baked soda | 4.8 g | 9.6 g | 19.2 g |
+| **Water (38% Standard)** | **152 g** | **304 g** | **608 g** |
+| **Water (35% Low)** | **140 g** | **280 g** | **560 g** |
 
 ## Cooking
 
