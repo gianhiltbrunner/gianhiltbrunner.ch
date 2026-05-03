@@ -1,7 +1,7 @@
 +++
 title="Mütschliknödel with Spinach Butter and Belper Knolle"
 description="Swiss take on Bavarian bread dumplings, Mütschli, finished with wilted spinach butter and shaved Belper Knolle"
-date=2026-05-03T20:00:00+02:00
+date=2026-05-03T00:00:00+02:00
 tldr="Day-old rolls cubed, soaked in warm milk, bound with sautéed onion and egg, gently simmered. Plated under a garlicky spinach butter and finished with shavings of Belper Knolle. Serves 4."
 draft=false
 tags=["recipe", "swiss", "german", "dumpling", "vegetarian"]
