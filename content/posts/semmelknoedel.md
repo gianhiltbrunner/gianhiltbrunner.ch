@@ -1,21 +1,21 @@
 +++
-title="Semmelknödel with Spinach Butter and Belper Knolle"
-description="Bavarian bread dumplings finished with wilted spinach butter and finely shaved Belper Knolle"
+title="Mütschliknödel with Spinach Butter and Belper Knolle"
+description="Swiss take on Bavarian bread dumplings, Mütschli, finished with wilted spinach butter and shaved Belper Knolle"
 date=2026-05-03T20:00:00+02:00
 tldr="Day-old rolls cubed, soaked in warm milk, bound with sautéed onion and egg, gently simmered. Plated under a garlicky spinach butter and finished with shavings of Belper Knolle. Serves 4."
 draft=false
-tags=["recipe", "german", "bavarian", "dumpling", "vegetarian"]
+tags=["recipe", "swiss", "german", "dumpling", "vegetarian"]
 +++
 
-Semmelknödel are the canonical South German bread dumpling. Two things matter: the bread must be properly stale, and the water must never boil. The rest is seasoning.
+Two things matter: the bread must be properly stale, and the water must never boil. The rest is seasoning.
 
 This version finishes them with a garlicky spinach butter and a shaving of [Belper Knolle](https://belperknolle.ch/) — a raw-milk cheese from [Jumi](https://belperknolle.ch/) in the Emmental, rolled in salt, garlic, and black pepper, then air-dried hard. It bridges the dumpling and the spinach with no extra work.
 
-## Semmelknödel
+## Mütschliknödel
 
 Makes 4 servings (8 dumplings)
 
-- 300 grams day-old Semmeln, cubed (~1 cm)
+- 300 grams day-old Mütschli, cubed (~1 cm)
 - 250 grams milk, warmed to ~40 °C
 - 3 large eggs, beaten
 - 100 grams onion, finely diced
