@@ -7,7 +7,7 @@ draft=false
 tags=["noodles", "recipe", "chinese", "xian", "hand-pulled"]
 +++
 
-Biang biang noodles are the belt-wide, hand-pulled noodles of Xi'an — thick, springy, ragged-edged ribbons made for soaking up chilli and spice. They're finished by pouring smoking-hot oil over a mound of aromatics, a trick known as *you po*. The dough is nothing but flour, water and salt, so everything comes down to gluten and patience. I borrow the stiff, high-gluten dough that Xi'an Famous Foods uses — it holds up to a real pull — sheet it on my Ono rather than rolling it by hand, and dress it with the pared-back hot oil I first learned from Red House Spice.
+Biang biang noodles are the belt-wide, hand-pulled noodles of Xi'an — thick, springy, ragged-edged ribbons made for soaking up chilli and spice. They're finished by pouring smoking-hot oil over a mound of aromatics, a trick known as *you po*. The dough is nothing but flour, water and salt, so everything comes down to gluten and patience. 
 
 ## Sources
 
