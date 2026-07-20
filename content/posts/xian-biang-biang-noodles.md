@@ -1,7 +1,7 @@
 +++
 title="Xi'an Biang Biang Noodles"
 description="Thick, hand-pulled belt noodles on a stiff Xi'an-style dough, sheeted on the Ono and finished with a sizzling chilli-and-Sichuan-pepper oil"
-date=2026-07-20T20:00:00+01:00
+date=2026-07-19T20:00:00+01:00
 tldr="Chewy hand-pulled belt noodles. I use the stiffer Xi'an Famous Foods dough, sheet it on the Ono, then hand-pull and finish with a simple hot chilli oil. Plan ahead for the resting time."
 draft=false
 tags=["noodles", "recipe", "chinese", "xian", "hand-pulled"]
