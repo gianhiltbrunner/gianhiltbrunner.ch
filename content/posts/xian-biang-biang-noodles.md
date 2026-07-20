@@ -7,7 +7,7 @@ draft=false
 tags=["noodles", "recipe", "chinese", "xian", "hand-pulled"]
 +++
 
-Biang biang noodles are the belt-wide, hand-pulled noodles of Xi'an — chewy, raggedy, and doused in a sizzling chilli-and-Sichuan-pepper oil (a technique called *you po*, "oil pouring"). The dough is just flour, water and salt; everything rides on gluten and patience. I take the stiff, high-gluten dough from Xi'an Famous Foods, which stands up to a proper pull, sheet it on my Ono instead of a rolling pin, and finish with the simple traditional oil from Red House Spice.
+Biang biang noodles are the belt-wide, hand-pulled noodles of Xi'an — thick, springy, ragged-edged ribbons made for soaking up chilli and spice. They're finished by pouring smoking-hot oil over a mound of aromatics, a trick known as *you po*. The dough is nothing but flour, water and salt, so everything comes down to gluten and patience. I borrow the stiff, high-gluten dough that Xi'an Famous Foods uses — it holds up to a real pull — sheet it on my Ono rather than rolling it by hand, and dress it with the pared-back hot oil I first learned from Red House Spice.
 
 ## Sources
 
@@ -17,7 +17,7 @@ Biang biang noodles are the belt-wide, hand-pulled noodles of Xi'an — chewy, r
 
 **Note on Equipment:**
 
-For flattening I use the [Ono Type 1 Pasta Machine](https://www.shichifuku-tool.jp/item/imonoseimenki1gata/) — the same heavy-duty machine I use for low-hydration ramen noodles. This dough is stiff (around 44% hydration), so the Ono handles it far better than a light consumer roller. A rolling pin also works if you don't have one.
+For flattening I reach for the [Ono Type 1 Pasta Machine](https://www.shichifuku-tool.jp/item/imonoseimenki1gata/) — the same heavy roller I use for low-hydration ramen. This dough is stiff (roughly 44% hydration), and the Ono muscles through it where a light consumer machine would struggle. A rolling pin is a fine substitute if you don't own one.
 
 ## The Dough
 
@@ -27,46 +27,46 @@ Makes 2-3 servings (about 6 pieces)
 - 180 grams water, room temperature
 - 3 grams (½ teaspoon) salt
 
-This is a dry, tough dough by design — it wants to be worked hard. If it won't come together at all, add water a splash at a time, but keep it firm.
+This dough is meant to be dry and firm — it takes some effort to bring together, and that's the point. If it truly won't cohere, work in a little more water a few drops at a time, but keep it on the tight side.
 
-1. Dissolve the salt in the water.
-2. Put the flour in a stand mixer with the dough hook. On low speed, pour in the salted water in a steady stream and keep mixing until the bowl is clean and the dough is smooth. (By hand: add the water in stages and knead 8-10 minutes.)
-3. Turn the dough onto a floured board and knead with some muscle — it's stiff at first, then turns smooth and springy.
-4. Cover and rest 5 minutes, then knead a minute more. Repeat twice: three kneads, ~15 minutes of resting in total. This is what builds the gluten the pull depends on.
+1. Stir the salt into the water until it dissolves.
+2. Tip the flour into a mixer bowl and fit the dough hook. Running on low, trickle in the salted water and let it keep going until the sides come clean and you have a smooth ball. (By hand: work the water in gradually and knead for 8-10 minutes.)
+3. Turn the dough out onto a floured surface and knead hard — it's stubborn at the start, then eases into something smooth and elastic the longer you go.
+4. Cover and let it sit for 5 minutes, then work it again for about a minute. Run through that rest-and-work cycle two more times: three kneads, roughly 15 minutes of resting all told. This is where the gluten that lets you pull the noodles gets built.
 
 ## Shape and Rest
 
 - The dough from above
 - Cooking oil, for coating
 
-1. Divide into ~6 pieces of about 100 grams. Roll each into a small log, coat thoroughly in oil, and lay them out without stacking.
-2. Cover and rest at least 1 hour at room temperature. The oil keeps a skin from forming and makes the pieces easier to sheet and pull.
+1. Cut the dough into roughly 6 equal pieces, about 100 grams each. Shape each into a stubby log and turn it in oil until fully slicked.
+2. Spread them out in a single layer so they don't touch, cover, and rest at least 1 hour at room temperature. The oil stops a dry skin forming and keeps the pieces supple for sheeting and pulling.
 
-> The oiled pieces keep refrigerated up to 3 days — pack them on their edge, like books. Bring them fully back to room temperature before pulling, or they'll resist the stretch.
+> These will keep a couple of days in the fridge — stand them upright on their ends so they don't press into one another. Let them come all the way back to room temperature before you pull, or they'll fight the stretch.
 
 ## Sheet and Pull
 
 - The rested dough pieces
 - Potato or corn starch, for dusting
 
-The Ono replaces the rolling-pin step; the pull is all hands.
+The Ono stands in for the rolling pin here; from there on it's all hands.
 
-1. Get a large pot of water boiling first — pulled noodles go straight into the pot, no waiting.
-2. One piece at a time, run it through the Ono on the widest setting, stepping down a notch or two until you have an even rectangle a few millimetres thick. Dust with starch if it sticks; don't go too thin, you need body to pull against.
-3. Let each sheeted piece rest a moment while you do the next — it relaxes and pulls more easily.
-4. Score a deep line lengthwise down the middle with a chopstick, without cutting through.
-5. Hold both ends and pull, working the piece longer and wider to your preferred thickness.
-6. Lay it down and tear along the scored line, leaving the ends joined to make one long loop.
+1. Get a big pot of water boiling before you start — pulled noodles need to go straight in.
+2. Taking one piece at a time, feed it through the Ono on the widest setting, then step down a notch or two until you have an even slab a few millimetres thick. Dust with starch if it grabs; keep some body to it so there's something to pull against.
+3. Let each sheeted piece sit for a moment while you run the next one through — the rest makes it stretch more willingly.
+4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
+5. Take an end in each hand and draw the piece out, coaxing it longer and wider until it's as thin as you like.
+6. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens out into one long loop.
 
 ## Cook
 
 - The pulled noodles
 - 1 head bok choy, or other leafy greens
 
-1. Drop each noodle into the boiling water the instant it's pulled. Work a portion at a time so the pot stays at a rolling boil.
-2. Boil about 2 minutes, until the noodles float and turn glossy.
-3. Add the bok choy for the last 20 seconds to blanch.
-4. Lift the noodles and greens into serving bowls, draining well.
+1. As soon as a noodle is pulled, send it straight into the boiling water — don't let it rest on the counter. Cook a portion at a time so the water never drops off the boil.
+2. Give them about 2 minutes, until they float and go glossy.
+3. Drop the bok choy in for the final 20 seconds to blanch.
+4. Scoop the noodles and greens into bowls, draining them well.
 
 ## The Dressing (You Po)
 
@@ -82,9 +82,9 @@ Per serving:
 - 1 tablespoon light soy sauce
 - 1 tablespoon black rice vinegar (Chinkiang)
 
-The raw aromatics sit on top of the hot noodles and the smoking oil cooks them on contact, blooming everything at once. These noodles are bigger than most, so the oil is scaled up to coat them properly.
+The aromatics go on raw and the smoking oil cooks them where they sit, releasing everything in one fragrant rush. Because these noodles run big, I've bumped the oil up so there's enough to coat them.
 
-1. Pile the scallions, garlic, chilli flakes, chilli powder, Sichuan pepper and a pinch of salt on top of the drained noodles.
-2. Heat the oil until it just starts to smoke.
-3. Pour it straight over the aromatics — it should sizzle at once.
-4. Add the soy sauce and vinegar, toss to coat evenly, and serve immediately.
+1. Heap the scallions, garlic, chilli flakes, chilli powder, Sichuan pepper and a pinch of salt onto the drained noodles.
+2. Heat the oil until it's just on the edge of smoking.
+3. Pour it straight over the pile — it should hiss and sizzle on contact.
+4. Splash in the soy sauce and vinegar, toss everything through, and eat right away.
