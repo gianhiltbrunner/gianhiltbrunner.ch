@@ -49,24 +49,24 @@ This dough is meant to be dry and firm — it takes some effort to bring togethe
 - The rested dough pieces
 - Potato or corn starch, for dusting
 
-Roll each piece out flat; from there on it's all hands.
+New to pulling? Read the [tips at the end](#tips-for-pulling-and-cooking) once first — the steps here stay short on purpose.
 
-1. Get a big pot of water boiling before you start — pulled noodles need to go straight in.
-2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with starch if it grabs; keep some body to it so there's something to pull against.
-3. Let each rolled piece sit for a moment while you flatten the next — the rest makes it stretch more willingly.
-4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
-5. Take an end in each hand and draw the piece out, coaxing it longer and wider until it's as thin as you like.
-6. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens out into one long loop.
+1. Have a big pot of water boiling before you start — pulled noodles go straight in.
+2. One piece at a time, roll it into an even rectangle a few millimetres thick. Dust with starch if it sticks.
+3. Let each rolled piece rest a moment while you flatten the next.
+4. Press a deep groove down the centre lengthways with a chopstick, stopping short of cutting through.
+5. Work the piece between your hands until soft and elastic, then draw it out — gently at first, then bouncing it against the counter — to about **1.2–1.5 m long, 3–4 cm wide and 2–3 mm thick**.
+6. Rip along the groove into one long loop, leaving the far ends joined. Pinch out any thick spots.
 
 ## Cook
 
 - The pulled noodles
 - 1 head bok choy, or other leafy greens (optional)
 
-1. As soon as a noodle is pulled, send it straight into the boiling water — don't let it rest on the counter. Cook a portion at a time so the water never drops off the boil.
-2. Give them about 2 minutes, until they float and go glossy.
-3. If you're adding greens, drop the bok choy in for the final 20 seconds to blanch.
-4. Scoop the noodles and greens into bowls, draining them well.
+1. Drop each noodle into hard-boiling water the moment it's pulled and stir so it doesn't stick. Cook a portion at a time.
+2. Boil about 2 minutes, until chewy but not soft — taste one to check.
+3. If using greens, add them for the final 20 seconds.
+4. Drain well and divide between bowls.
 
 ## The Dressing (You Po)
 
@@ -88,3 +88,21 @@ The aromatics go on raw and the smoking oil cooks them where they sit, releasing
 2. Heat the oil until it's just on the edge of smoking.
 3. Pour it straight over the pile — it should hiss and sizzle on contact.
 4. Splash in the soy sauce and vinegar, toss everything through, and eat right away.
+
+## Tips for Pulling and Cooking
+
+Worth reading once; after that the steps above are all you need at the stove.
+
+**Pulling**
+
+- **It's mostly the rest.** Relaxed, room-temperature dough stretches almost on its own. If a piece keeps springing back, give it another twenty minutes rather than forcing it — under-rested or still-cold dough is the usual reason it fights you.
+- **Wake it up first.** Press and stretch each piece by hand until it feels soft and elastic before you start pulling.
+- **Start even, go slow.** An even rectangle thins evenly; thick spots stay fat and thin spots blow out. Keep your grip flat and loose — pull too fast or pinch too hard and it snaps. If it tears, pinch the ends back together or carry on from the break.
+- **The bounce is the point.** A steady up-and-down slap against the counter thins the middle evenly — and it's the sound the noodle is named for. Rhythm, not force.
+- **Straight to the pot.** Pulled noodles slump and stick within a minute, so don't let them sit around.
+
+**Cooking**
+
+- **Big pot, hard boil, room to move**, and don't salt the water — the dough and dressing already carry the salt.
+- **Taste, don't time.** Two minutes is the ceiling; pull one out and check for a firm, chewy bite.
+- **Refresh the water** once it turns cloudy and starchy if you're cooking several batches, or the later noodles cook unevenly.
