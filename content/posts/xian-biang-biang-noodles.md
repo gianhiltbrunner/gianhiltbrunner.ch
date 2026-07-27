@@ -55,8 +55,9 @@ Roll each piece out flat; from there on it's all hands.
 2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with starch if it grabs; keep some body to it so there's something to pull against.
 3. Let each rolled piece sit for a moment while you flatten the next — the rest makes it stretch more willingly.
 4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
-5. Take an end in each hand and draw the piece out, letting the weight of the dough do some of the work. For a 100 gram piece, aim for roughly **1.2 to 1.5 metres long, 3 to 4 centimetres wide and 2 to 3 millimetres thick** — thin enough that the edges turn translucent, but with some body left through the middle. As you stretch, bounce the strand against the counter in a steady up-and-down rhythm; it thins the middle evenly, and it's where the noodle gets its name. Work slowly and keep your grip flat and relaxed — pull too fast or squeeze too hard and it snaps.
-6. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens out into one long loop.
+5. Before you pull, work the piece between your hands — press and stretch it a few times until it feels soft and elastic. This wakes the gluten up; if it still springs back hard, it wants more rest, so don't force it.
+6. Take an end in each hand and draw it out gently at first, to about an arm's span. Then start bouncing the strand against the counter in a steady up-and-down rhythm — this is where the noodle gets its name — and keep pulling until, for a 100 gram piece, it runs roughly **1.2 to 1.5 metres long, 3 to 4 centimetres wide and 2 to 3 millimetres thick**: thin enough that the edges turn translucent, with some body left through the middle. Go slowly and keep your grip flat and loose — pull too fast or pinch too hard and it snaps.
+7. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens into one long loop. Run any sections that came out too thick between your fingers to even them before they go in the pot.
 
 > **Keys to a clean pull:** most of the work is already done by the rest — dough that's relaxed and at room temperature stretches almost on its own, so if a piece keeps springing back, give it another twenty minutes rather than fighting it. Start from an even rectangle so it thins uniformly, take it slowly, and get every noodle into the pot the moment it's pulled; left on the counter even a minute, it slumps and sticks. If one tears mid-pull, don't fret — pinch the ends back together or carry on from the break.
 
@@ -65,10 +66,10 @@ Roll each piece out flat; from there on it's all hands.
 - The pulled noodles
 - 1 head bok choy, or other leafy greens (optional)
 
-1. As soon as a noodle is pulled, send it straight into the boiling water — don't let it rest on the counter. Cook a portion at a time so the water never drops off the boil.
-2. Give them about 2 minutes, until they float and go glossy.
+1. Use a big pot at a hard, rolling boil so the noodles have room to move. Don't bother salting the water — the dough is already seasoned and the dressing brings plenty. As soon as a noodle is pulled, send it straight in and give it a stir with chopsticks or tongs so it doesn't catch on the bottom. Cook a portion at a time so the boil never drops off.
+2. Two minutes is the ceiling — fish one out and taste for a firm, chewy bite, and don't let them go past it or they turn soft.
 3. If you're adding greens, drop the bok choy in for the final 20 seconds to blanch.
-4. Scoop the noodles and greens into bowls, draining them well.
+4. Scoop the noodles and greens into bowls, draining them well. If you're working through several batches, refresh the water once it turns cloudy and starchy, or the later noodles cook unevenly.
 
 ## The Dressing (You Po)
 
