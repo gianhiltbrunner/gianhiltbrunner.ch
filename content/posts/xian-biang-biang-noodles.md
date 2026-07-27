@@ -1,8 +1,8 @@
 +++
 title="Xi'an Biang Biang Noodles"
-description="Thick, hand-pulled belt noodles on a stiff Xi'an-style dough, sheeted on the Ono and finished with a sizzling chilli-and-Sichuan-pepper oil"
+description="Thick, hand-pulled belt noodles on a stiff Xi'an-style dough, rolled flat then pulled by hand and finished with a sizzling chilli-and-Sichuan-pepper oil"
 date=2026-07-19T20:00:00+01:00
-tldr="Chewy hand-pulled belt noodles. I use the stiffer Xi'an Famous Foods dough, sheet it on the Ono, then hand-pull and finish with a simple hot chilli oil. Plan ahead for the resting time."
+tldr="Chewy hand-pulled belt noodles. I use the stiffer Xi'an Famous Foods dough, roll it flat, then hand-pull and finish with a simple hot chilli oil. Plan ahead for the resting time."
 draft=false
 tags=["noodles", "recipe", "chinese", "xian", "hand-pulled"]
 +++
@@ -17,7 +17,7 @@ Biang biang noodles are the belt-wide, hand-pulled noodles of Xi'an — thick, s
 
 **Note on Equipment:**
 
-For flattening I reach for the [Ono Type 1 Pasta Machine](https://www.shichifuku-tool.jp/item/imonoseimenki1gata/) — the same heavy roller I use for low-hydration ramen. This dough is stiff (roughly 44% hydration), and the Ono muscles through it where a light consumer machine would struggle. A rolling pin is a fine substitute if you don't own one.
+All you need to flatten the dough is a rolling pin. (I run mine through an [Ono Type 1 Pasta Machine](https://www.shichifuku-tool.jp/item/imonoseimenki1gata/), the heavy roller I already own for low-hydration ramen, but it's not required — this stiff dough just takes a little muscle by hand.)
 
 ## The Dough
 
@@ -37,23 +37,23 @@ This dough is meant to be dry and firm — it takes some effort to bring togethe
 ## Shape and Rest
 
 - The dough from above
-- Plastic wrap (cling film)
+- Cling film
 
 1. Cut the dough into roughly 6 equal pieces, about 100 grams each. Shape each into a stubby log.
-2. Stack the pieces with a sheet of plastic wrap between each one so they don't fuse together, then wrap the whole stack tightly and rest at room temperature. One hour is the minimum, but **2 to 4 hours is the sweet spot** — this dough is stiff and low-hydration, so it needs the extra time for the gluten to relax fully and pull without snapping back. With a strong flour like Manitoba, lean toward the longer end; the extra gluten means more spring, so give it the full stretch of time (or an overnight rest in the fridge). The wrap seals in moisture so no dry skin forms and the pieces stay supple for sheeting and pulling.
+2. Stack the pieces with a sheet of cling film between each one so they don't fuse together, then wrap the whole stack tightly and rest at room temperature. One hour is the minimum, but **2 to 4 hours is the sweet spot** — this dough is stiff and low-hydration, so it needs the extra time for the gluten to relax fully and pull without snapping back. With a strong flour like Manitoba, lean toward the longer end; the extra gluten means more spring, so give it the full stretch of time (or an overnight rest in the fridge). The film seals in moisture so no dry skin forms and the pieces stay supple for rolling and pulling.
 
 > There's no yeast here, so the rest is only about the gluten letting go — you can't over-prove it. For anything past four hours, or to make it ahead, refrigerate the wrapped stack: it keeps a day or two. Let the dough come all the way back to room temperature before you pull, or the cold dough will fight the stretch.
 
-## Sheet and Pull
+## Roll and Pull
 
 - The rested dough pieces
-- Potato or corn starch, for dusting
+- Flour, for dusting
 
-The Ono stands in for the rolling pin here; from there on it's all hands.
+Roll each piece out flat; from there on it's all hands.
 
 1. Get a big pot of water boiling before you start — pulled noodles need to go straight in.
-2. Taking one piece at a time, feed it through the Ono on the widest setting, then step down a notch or two until you have an even slab a few millimetres thick. Dust with starch if it grabs; keep some body to it so there's something to pull against.
-3. Let each sheeted piece sit for a moment while you run the next one through — the rest makes it stretch more willingly.
+2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with flour if it grabs; keep some body to it so there's something to pull against.
+3. Let each rolled piece sit for a moment while you flatten the next — the rest makes it stretch more willingly.
 4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
 5. Take an end in each hand and draw the piece out, coaxing it longer and wider until it's as thin as you like.
 6. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens out into one long loop.
