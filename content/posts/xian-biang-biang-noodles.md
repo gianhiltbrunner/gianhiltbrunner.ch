@@ -23,11 +23,11 @@ For flattening I reach for the [Ono Type 1 Pasta Machine](https://www.shichifuku
 
 Makes 2-3 servings (about 6 pieces)
 
-- 405 grams all-purpose or high-gluten flour
+- 405 grams Manitoba flour (or another strong, high-gluten flour)
 - 180 grams water, room temperature
 - 3 grams (½ teaspoon) salt
 
-This dough is meant to be dry and firm — it takes some effort to bring together, and that's the point. If it truly won't cohere, work in a little more water a few drops at a time, but keep it on the tight side.
+This dough is meant to be dry and firm — it takes some effort to bring together, and that's the point. I use Manitoba, the same strong, high-gluten flour I reach for with ramen: it gives these noodles their proper chew and the backbone to pull to belt-width without tearing. Strong flour is thirsty, though, so don't be surprised if you need to work in a little more water, a few drops at a time, to bring it together — but keep it on the tight side.
 
 1. Stir the salt into the water until it dissolves.
 2. Tip the flour into a mixer bowl and fit the dough hook. Running on low, trickle in the salted water and let it keep going until the sides come clean and you have a smooth ball. (By hand: work the water in gradually and knead for 8-10 minutes.)
@@ -40,7 +40,7 @@ This dough is meant to be dry and firm — it takes some effort to bring togethe
 - Plastic wrap (cling film)
 
 1. Cut the dough into roughly 6 equal pieces, about 100 grams each. Shape each into a stubby log.
-2. Stack the pieces with a sheet of plastic wrap between each one so they don't fuse together, then wrap the whole stack tightly and rest at room temperature. One hour is the minimum, but **2 to 4 hours is the sweet spot** — this dough is stiff and low-hydration, so it needs the extra time for the gluten to relax fully and pull without snapping back. The wrap seals in moisture so no dry skin forms and the pieces stay supple for sheeting and pulling.
+2. Stack the pieces with a sheet of plastic wrap between each one so they don't fuse together, then wrap the whole stack tightly and rest at room temperature. One hour is the minimum, but **2 to 4 hours is the sweet spot** — this dough is stiff and low-hydration, so it needs the extra time for the gluten to relax fully and pull without snapping back. With a strong flour like Manitoba, lean toward the longer end; the extra gluten means more spring, so give it the full stretch of time (or an overnight rest in the fridge). The wrap seals in moisture so no dry skin forms and the pieces stay supple for sheeting and pulling.
 
 > There's no yeast here, so the rest is only about the gluten letting go — you can't over-prove it. For anything past four hours, or to make it ahead, refrigerate the wrapped stack: it keeps a day or two. Let the dough come all the way back to room temperature before you pull, or the cold dough will fight the stretch.
 
