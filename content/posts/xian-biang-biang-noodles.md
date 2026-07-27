@@ -47,12 +47,12 @@ This dough is meant to be dry and firm — it takes some effort to bring togethe
 ## Roll and Pull
 
 - The rested dough pieces
-- Flour, for dusting
+- Potato or corn starch, for dusting
 
 Roll each piece out flat; from there on it's all hands.
 
 1. Get a big pot of water boiling before you start — pulled noodles need to go straight in.
-2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with flour if it grabs; keep some body to it so there's something to pull against.
+2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with starch if it grabs; keep some body to it so there's something to pull against.
 3. Let each rolled piece sit for a moment while you flatten the next — the rest makes it stretch more willingly.
 4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
 5. Take an end in each hand and draw the piece out, coaxing it longer and wider until it's as thin as you like.
@@ -61,11 +61,11 @@ Roll each piece out flat; from there on it's all hands.
 ## Cook
 
 - The pulled noodles
-- 1 head bok choy, or other leafy greens
+- 1 head bok choy, or other leafy greens (optional)
 
 1. As soon as a noodle is pulled, send it straight into the boiling water — don't let it rest on the counter. Cook a portion at a time so the water never drops off the boil.
 2. Give them about 2 minutes, until they float and go glossy.
-3. Drop the bok choy in for the final 20 seconds to blanch.
+3. If you're adding greens, drop the bok choy in for the final 20 seconds to blanch.
 4. Scoop the noodles and greens into bowls, draining them well.
 
 ## The Dressing (You Po)
