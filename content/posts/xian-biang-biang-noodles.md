@@ -55,8 +55,10 @@ Roll each piece out flat; from there on it's all hands.
 2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with starch if it grabs; keep some body to it so there's something to pull against.
 3. Let each rolled piece sit for a moment while you flatten the next — the rest makes it stretch more willingly.
 4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
-5. Take an end in each hand and draw the piece out, coaxing it longer and wider until it's as thin as you like.
+5. Take an end in each hand and draw the piece out, letting the weight of the dough do some of the work. For a 100 gram piece, aim for roughly **1.2 to 1.5 metres long, 3 to 4 centimetres wide and 2 to 3 millimetres thick** — thin enough that the edges turn translucent, but with some body left through the middle. As you stretch, bounce the strand against the counter in a steady up-and-down rhythm; it thins the middle evenly, and it's where the noodle gets its name. Work slowly and keep your grip flat and relaxed — pull too fast or squeeze too hard and it snaps.
 6. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens out into one long loop.
+
+> **Keys to a clean pull:** most of the work is already done by the rest — dough that's relaxed and at room temperature stretches almost on its own, so if a piece keeps springing back, give it another twenty minutes rather than fighting it. Start from an even rectangle so it thins uniformly, take it slowly, and get every noodle into the pot the moment it's pulled; left on the counter even a minute, it slumps and sticks. If one tears mid-pull, don't fret — pinch the ends back together or carry on from the break.
 
 ## Cook
 
