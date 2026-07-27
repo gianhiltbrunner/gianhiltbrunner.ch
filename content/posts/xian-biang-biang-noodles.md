@@ -49,27 +49,24 @@ This dough is meant to be dry and firm — it takes some effort to bring togethe
 - The rested dough pieces
 - Potato or corn starch, for dusting
 
-Roll each piece out flat; from there on it's all hands.
+New to pulling? Read the [tips at the end](#tips-for-pulling-and-cooking) once first — the steps here stay short on purpose.
 
-1. Get a big pot of water boiling before you start — pulled noodles need to go straight in.
-2. Taking one piece at a time, roll it out into an even rectangle a few millimetres thick (I run mine through the Ono, but a rolling pin does the same job). Dust with starch if it grabs; keep some body to it so there's something to pull against.
-3. Let each rolled piece sit for a moment while you flatten the next — the rest makes it stretch more willingly.
-4. With a chopstick, press a deep groove down the centre the long way, stopping just short of cutting through.
-5. Before you pull, work the piece between your hands — press and stretch it a few times until it feels soft and elastic. This wakes the gluten up; if it still springs back hard, it wants more rest, so don't force it.
-6. Take an end in each hand and draw it out gently at first, to about an arm's span. Then start bouncing the strand against the counter in a steady up-and-down rhythm — this is where the noodle gets its name — and keep pulling until, for a 100 gram piece, it runs roughly **1.2 to 1.5 metres long, 3 to 4 centimetres wide and 2 to 3 millimetres thick**: thin enough that the edges turn translucent, with some body left through the middle. Go slowly and keep your grip flat and loose — pull too fast or pinch too hard and it snaps.
-7. Set it on the counter and rip it apart along the groove, leaving the far ends joined so it opens into one long loop. Run any sections that came out too thick between your fingers to even them before they go in the pot.
-
-> **Keys to a clean pull:** most of the work is already done by the rest — dough that's relaxed and at room temperature stretches almost on its own, so if a piece keeps springing back, give it another twenty minutes rather than fighting it. Start from an even rectangle so it thins uniformly, take it slowly, and get every noodle into the pot the moment it's pulled; left on the counter even a minute, it slumps and sticks. If one tears mid-pull, don't fret — pinch the ends back together or carry on from the break.
+1. Have a big pot of water boiling before you start — pulled noodles go straight in.
+2. One piece at a time, roll it into an even rectangle a few millimetres thick. Dust with starch if it sticks.
+3. Let each rolled piece rest a moment while you flatten the next.
+4. Press a deep groove down the centre lengthways with a chopstick, stopping short of cutting through.
+5. Work the piece between your hands until soft and elastic, then draw it out — gently at first, then bouncing it against the counter — to about **1.2–1.5 m long, 3–4 cm wide and 2–3 mm thick**.
+6. Rip along the groove into one long loop, leaving the far ends joined. Pinch out any thick spots.
 
 ## Cook
 
 - The pulled noodles
 - 1 head bok choy, or other leafy greens (optional)
 
-1. Use a big pot at a hard, rolling boil so the noodles have room to move. Don't bother salting the water — the dough is already seasoned and the dressing brings plenty. As soon as a noodle is pulled, send it straight in and give it a stir with chopsticks or tongs so it doesn't catch on the bottom. Cook a portion at a time so the boil never drops off.
-2. Two minutes is the ceiling — fish one out and taste for a firm, chewy bite, and don't let them go past it or they turn soft.
-3. If you're adding greens, drop the bok choy in for the final 20 seconds to blanch.
-4. Scoop the noodles and greens into bowls, draining them well. If you're working through several batches, refresh the water once it turns cloudy and starchy, or the later noodles cook unevenly.
+1. Drop each noodle into hard-boiling water the moment it's pulled and stir so it doesn't stick. Cook a portion at a time.
+2. Boil about 2 minutes, until chewy but not soft — taste one to check.
+3. If using greens, add them for the final 20 seconds.
+4. Drain well and divide between bowls.
 
 ## The Dressing (You Po)
 
@@ -91,3 +88,21 @@ The aromatics go on raw and the smoking oil cooks them where they sit, releasing
 2. Heat the oil until it's just on the edge of smoking.
 3. Pour it straight over the pile — it should hiss and sizzle on contact.
 4. Splash in the soy sauce and vinegar, toss everything through, and eat right away.
+
+## Tips for Pulling and Cooking
+
+Worth reading once; after that the steps above are all you need at the stove.
+
+**Pulling**
+
+- **It's mostly the rest.** Relaxed, room-temperature dough stretches almost on its own. If a piece keeps springing back, give it another twenty minutes rather than forcing it — under-rested or still-cold dough is the usual reason it fights you.
+- **Wake it up first.** Press and stretch each piece by hand until it feels soft and elastic before you start pulling.
+- **Start even, go slow.** An even rectangle thins evenly; thick spots stay fat and thin spots blow out. Keep your grip flat and loose — pull too fast or pinch too hard and it snaps. If it tears, pinch the ends back together or carry on from the break.
+- **The bounce is the point.** A steady up-and-down slap against the counter thins the middle evenly — and it's the sound the noodle is named for. Rhythm, not force.
+- **Straight to the pot.** Pulled noodles slump and stick within a minute, so don't let them sit around.
+
+**Cooking**
+
+- **Big pot, hard boil, room to move**, and don't salt the water — the dough and dressing already carry the salt.
+- **Taste, don't time.** Two minutes is the ceiling; pull one out and check for a firm, chewy bite.
+- **Refresh the water** once it turns cloudy and starchy if you're cooking several batches, or the later noodles cook unevenly.
