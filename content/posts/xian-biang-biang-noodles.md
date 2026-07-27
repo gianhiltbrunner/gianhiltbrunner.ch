@@ -37,12 +37,12 @@ This dough is meant to be dry and firm — it takes some effort to bring togethe
 ## Shape and Rest
 
 - The dough from above
-- Cooking oil, for coating
+- Plastic wrap (cling film)
 
-1. Cut the dough into roughly 6 equal pieces, about 100 grams each. Shape each into a stubby log and turn it in oil until fully slicked.
-2. Spread them out in a single layer so they don't touch, cover, and rest at room temperature. One hour is the minimum, but **2 to 4 hours is the sweet spot** — this dough is stiff and low-hydration, so it needs the extra time for the gluten to relax fully and pull without snapping back. The oil stops a dry skin forming and keeps the pieces supple for sheeting and pulling.
+1. Cut the dough into roughly 6 equal pieces, about 100 grams each. Shape each into a stubby log.
+2. Stack the pieces with a sheet of plastic wrap between each one so they don't fuse together, then wrap the whole stack tightly and rest at room temperature. One hour is the minimum, but **2 to 4 hours is the sweet spot** — this dough is stiff and low-hydration, so it needs the extra time for the gluten to relax fully and pull without snapping back. The wrap seals in moisture so no dry skin forms and the pieces stay supple for sheeting and pulling.
 
-> There's no yeast here, so the rest is only about the gluten letting go — you can't over-prove it. For anything past four hours, or to make it ahead, refrigerate: the pieces keep a day or two if you stand them upright on their ends so they don't press into one another. Let them come all the way back to room temperature before you pull, or the cold dough will fight the stretch.
+> There's no yeast here, so the rest is only about the gluten letting go — you can't over-prove it. For anything past four hours, or to make it ahead, refrigerate the wrapped stack: it keeps a day or two. Let the dough come all the way back to room temperature before you pull, or the cold dough will fight the stretch.
 
 ## Sheet and Pull
 
