@@ -7,7 +7,7 @@ draft=false
 tags=["ramen", "recipe", "japanese", "vegetarian", "vegan", "tantanmen", "sichuan"]
 +++
 
-Tantanmen descends from Sichuan dan dan mian, which arrived in Tokyo in the 1950s as a dry noodle dish and was rebuilt for Japanese tastes around a bowl of soup and a heavy pour of sesame paste. The modern shop version is nutty, spicy and creamy in roughly equal measure, and the minced pork on top does more work than it looks like it should. This vegetarian version keeps the structure intact: a light vegetable chintan, a sesame and doubanjiang tare, soy milk for body, and a soboro built on plant-based mince. The best bowl I've had is at [Nakiryu](https://tabelog.com/en/tokyo/A1323/A132302/13141302/) in Otsuka, where the chili oil and sesame sit in a distinct layer over a lighter, faintly sour broth.
+Tantanmen descends from Sichuan dan dan mian, which reached Tokyo in the 1950s as a dry noodle dish and was rebuilt for Japanese tastes around a bowl of soup and a heavy pour of sesame paste. This vegetarian version keeps that structure: a light vegetable chintan, a sesame and doubanjiang tare, soy milk for body, and a soboro made with plant-based mince.
 
 ## Sources
 
@@ -17,7 +17,7 @@ Tantanmen descends from Sichuan dan dan mian, which arrived in Tokyo in the 1950
 
 Makes 1 bowl
 
-Tantanmen is a bowl of three strong flavours held in balance: sesame, fermented chili, and the numbing perfume of Sichuan pepper. The tare is thick, so it needs whisking into the chintan before the soy milk goes anywhere near it.
+The tare is thick and sesame-heavy, so it needs whisking into the chintan before the soy milk goes anywhere near it.
 
 - 200 milliliters (1 large ladle) vegetable chintan, hot
 - 150 milliliters (2/3 cup) soy milk, warmed gently
@@ -28,7 +28,7 @@ Tantanmen is a bowl of three strong flavours held in balance: sesame, fermented 
 - 1 small head pak choi, blanched
 - Toppings: sliced scallions, toasted ground sesame, crushed peanuts, ground Sichuan pepper, 1 half-cooked egg (optional)
 
-1. Preheat the serving bowl. Ramen shops use boiling water from the noodle cooker; at home, hold the bowls in the oven at its lowest setting while you work.
+1. Preheat the serving bowl in the oven at its lowest setting.
 2. Add the tare and chili oil to the bottom of the bowl and whisk them together.
 3. Pour in the hot chintan and whisk until the tare is fully dissolved and no lumps of sesame paste remain.
 4. Stir in the warm soy milk. Taste, and adjust with a little more tare or a splash of chintan.
@@ -36,9 +36,9 @@ Tantanmen is a bowl of three strong flavours held in balance: sesame, fermented 
 6. Top with the soboro, the pak choi, the egg if using, then scallions, ground sesame and crushed peanuts.
 7. Grind Sichuan pepper over the bowl and eat immediately.
 
-**Handling the Soy Milk**: Soy protein begins to destabilise somewhere around 65°C, and this bowl also brings acid to the party in the form of vinegar and fermented bean paste — both conditions that push it toward curdling. Warm the soy milk in a separate pan over low heat and take it off as soon as it steams; never let it simmer. Add it after the chintan has already diluted the tare, so it never meets the tare's acidity undiluted. Unsweetened soy milk gives the cleanest flavour but separates most readily; the sweetened kind carries emulsifiers and is far more forgiving, at the cost of a faint sweetness. If the soup does split, it still tastes right, it just looks grainy.
+**Handling the Soy Milk**: Soy protein starts to destabilise around 65°C, and vinegar and fermented bean paste in the tare push it further toward curdling. Warm the soy milk separately over low heat and pull it off as soon as it steams; never let it simmer. Add it only after the chintan has diluted the tare. Unsweetened tastes cleanest but separates most readily — the sweetened kind carries emulsifiers and is more forgiving. A split soup still tastes right, it just looks grainy.
 
-Use roughly 350 milliliters of liquid in total. Japanese soy milk tantanmen runs anywhere from 1:1 to 2:3 soy milk against stock, so the ratio above is a starting point rather than a rule.
+Japanese soy milk tantanmen runs anywhere from 1:1 to 2:3 soy milk against stock. Total liquid stays around 350 milliliters either way.
 
 ## Vegetable Chintan (Makes ~7 bowls)
 
@@ -59,7 +59,7 @@ Vegetarian soups lack both viscosity and umami. This chintan controls for umami 
 4. Add the green onions and kombu, turn off the heat, and let steep for 15 minutes.
 5. Strain the soup and reserve until needed.
 
-Use 200 milliliters per bowl. The chintan keeps for 3-4 days refrigerated and freezes well.
+Use 200 milliliters per bowl. Keeps 3-4 days refrigerated and freezes well.
 
 ## Tantanmen Tare (Makes ~6 bowls)
 
@@ -73,15 +73,15 @@ Use 200 milliliters per bowl. The chintan keeps for 3-4 days refrigerated and fr
 - 8 grams garlic (about 2 cloves), grated
 - 6 grams ginger, grated
 
-This tare is sesame-forward by design. Japanese recipes build the seasoning around two tablespoons of sesame paste per bowl and let everything else support it, so the soy sauce here is dialled back further than a shoyu tare would be. The doubanjiang, black vinegar, garlic and ginger are what keep the dish anchored to its Sichuan side.
+Japanese recipes build this tare around roughly two tablespoons of sesame paste per bowl and let everything else support it, so the soy sauce is dialled back further than it would be in a shoyu tare. The doubanjiang, black vinegar, garlic and ginger anchor the bowl to its Sichuan side.
 
 1. Put the sesame paste in a bowl and add the soy sauce in three additions, whisking each one in completely before the next. Added all at once, the paste seizes and refuses to combine.
 2. Whisk in the black vinegar, doubanjiang, sugar, sesame oil, MSG, garlic, and ginger.
-3. Rest in the fridge for at least a few hours, and preferably overnight, so the raw garlic loses its edge.
+3. Rest in the fridge for at least a few hours, preferably overnight, so the raw garlic loses its edge.
 
-Use 75 grams per bowl. This puts the finished soup at roughly 1.2% salt before the soboro is added, which lands close to the 1.5% a ramen bowl generally wants once the topping is counted. Sesame and soy milk both blunt salt perception, so taste the assembled bowl rather than trusting the arithmetic. The tare keeps for 3 weeks refrigerated and separates on standing, so whisk before use.
+Use 75 grams per bowl. That puts the soup at roughly 1.2% salt before the soboro, landing near the usual 1.5% once the topping is counted. Sesame and soy milk both blunt salt perception, so taste the assembled bowl rather than trusting the arithmetic. Keeps 3 weeks refrigerated; separates on standing, so whisk before use.
 
-**On Sesame Paste**: Nerigoma is ground from Japanese-style roasted sesame and is darker, sweeter and far more aromatic than tahini, which is usually made from lightly toasted or raw seed. Tahini works, but the bowl comes out noticeably paler in flavour. Chinese sesame paste (zhima jiang) is the closest substitute of all. A spoonful of surigoma — coarsely ground toasted sesame seeds — scattered over the finished bowl adds the aroma that a smooth paste alone can't.
+**On Sesame Paste**: Nerigoma is ground from Japanese-style roasted sesame and is darker and far more aromatic than tahini, which is usually made from lightly toasted or raw seed. Chinese sesame paste (zhima jiang) is the closest substitute. Tahini works but tastes noticeably paler; a spoonful of surigoma over the finished bowl makes up some of the difference.
 
 ## Soboro (Makes ~6 servings)
 
@@ -97,17 +97,15 @@ Use 75 grams per bowl. This puts the finished soup at roughly 1.2% salt before t
 - 40 grams sui mi ya cai or zha cai, rinsed and chopped (optional)
 - White pepper, to taste
 
-Soboro means crumbled or shredded, and it describes the form rather than the meat, so a plant-based version has every right to the name. The seasoning follows the Japanese nikumiso pattern: sweet bean paste for body and sweetness, doubanjiang for heat and ferment, sake and sugar to round it out, all cooked down until the mixture is glossy rather than wet. Store-bought mince turns this into a ten-minute job.
+Soboro describes the crumbled form rather than the meat, so a plant-based version keeps the name. The seasoning follows the Japanese nikumiso pattern: sweet bean paste for body, doubanjiang for heat and ferment, sake and sugar to round it out, cooked down until glossy rather than wet.
 
 1. Heat the sesame oil in a wide pan over medium-high heat. Add the mince and cook, breaking up clumps, until browned in patches, 5-7 minutes. Let it sit still between stirs; constant movement steams it instead of browning it.
 2. Add the garlic and ginger and cook until fragrant, about 1 minute.
-3. Push everything to one side of the pan, add the doubanjiang to the bare surface, and fry it for 30-60 seconds until the oil turns red and smells sweet, then stir it through.
+3. Push everything to one side of the pan, add the doubanjiang to the bare surface, and fry it for 30-60 seconds until the oil turns red, then stir it through. Fried in oil it turns sweet and releases its colour; stirred in raw at the end it stays flat and salty.
 4. Add the tianmianjiang, soy sauce, sake, and sugar. Cook, stirring, until the liquid has reduced and the mince is glossy, 2-3 minutes.
 5. Stir in the ya cai if using, and season with white pepper.
 
-Use about 60 grams per bowl. Keeps 5 days refrigerated and freezes well in portions.
-
-**On Frying the Doubanjiang**: Fermented broad bean paste gets fried in oil in essentially every Sichuan dish that uses it, because its pigments and aroma compounds are fat-soluble and only release properly into fat. Stirred in raw at the end it tastes flat and salty; given half a minute in hot oil it turns sweet and stains everything red. Sui mi ya cai, the preserved mustard greens from Yibin, is the other ingredient doing authentic work here — salty, faintly sweet and deeply funky. Sichuan zha cai is an easier-to-find stand-in. Rinse either before chopping or the soboro turns out too salty.
+Use about 60 grams per bowl. Keeps 5 days refrigerated and freezes well in portions. Sui mi ya cai, the preserved mustard greens from Yibin, is the most authentic thing you can add here; Sichuan zha cai is an easier-to-find stand-in. Rinse either before chopping or the soboro turns out too salty.
 
 ## Chili Oil (Makes ~6 bowls)
 
@@ -117,7 +115,7 @@ Use about 60 grams per bowl. Keeps 5 days refrigerated and freezes well in porti
 - 2-3 dried red chilis, whole or broken
 - 2-3 green onions (scallions), white and light green parts only, cut into 3-centimeter pieces
 
-This is the same aromatic oil I use in my [yuzu shio ramen](/posts/yuzu-shio-ramen/), and it suits tantanmen just as well — make a double batch and one jar covers both bowls. The gentle infusion extracts flavour without burning the aromatics.
+This is the same aromatic oil as in my [yuzu shio ramen](/posts/yuzu-shio-ramen/) — make a double batch and one jar covers both bowls.
 
 1. In a small saucepan, combine the oil, ginger, garlic, and chilis.
 2. Place over medium-low heat and warm gently. You should see small bubbles forming around the aromatics, but not aggressive frying.
@@ -126,7 +124,7 @@ This is the same aromatic oil I use in my [yuzu shio ramen](/posts/yuzu-shio-ram
 5. Let the aromatics steep in the oil for 10 minutes.
 6. Strain through a fine-mesh strainer into a clean container, discarding the solids.
 
-Use 15 milliliters (1 tablespoon) per bowl. Store at room temperature for up to 1 week, or refrigerate for up to 1 month. For the red slick you see on a shop bowl, stir a tablespoon of coarsely ground togarashi into the oil while it is still warm — around 120°C, hot enough to bloom the colour without scorching it — and leave the sediment in the jar rather than straining it out.
+Use 15 milliliters (1 tablespoon) per bowl. Store at room temperature for up to 1 week, or refrigerate for up to 1 month. For a redder oil, stir a tablespoon of coarsely ground togarashi into it at around 120°C — hot enough to bloom the colour without scorching it — and leave the sediment in the jar.
 
 ## Pak Choi
 
